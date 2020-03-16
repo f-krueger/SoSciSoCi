@@ -1,0 +1,19 @@
+T1	software_certain 3586 3596	PyroTagger
+T2	software_certain 3671 3677	blastn
+T3	software_certain 4674 4680	blastn
+T4	software_certain 5082 5088	blastn
+T5	software_certain 5464 5473	EstimateS
+T6	software_certain 6383 6389	blastn
+T7	software_certain 6774 6778	Perl
+T8	software_certain 6821 6826	PCORD
+T9	software_certain 10148 10162	RDP Classifier
+T10	software_certain 10309 10317	Geneious
+T11	software_certain 10552 10575	Greengenes Bellerpheron
+T12	software_certain 10751 10757	MUSCLE
+T13	software_certain 10765 10773	Geneious
+T14	software_certain 11202 11208	blastn
+T15	software_certain 11470 11476	Blastn
+T16	software_certain 11750 11754	MEGA
+T17	software_certain 11797 11802	DNAsp
+T18	software_certain 12463 12467	MEGA
+T19	software_certain 14600 14606	Blastn

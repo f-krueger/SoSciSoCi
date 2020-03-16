@@ -1,0 +1,33 @@
+T1	software_certain 4478 4483	BLAST
+T2	software_certain 4650 4654	MEGA
+T3	software_certain 5192 5202	genemapper
+T4	software_certain 5869 5873	MEGA
+T5	software_certain 5838 5847	Clustal W
+T6	software_certain 5999 6003	MEGA
+T7	software_certain 6084 6088	MEGA
+T8	software_certain 6223 6228	DnaSP
+T9	software_certain 6991 6996	PAUP*
+T10	software_certain 7358 7365	Network
+T11	software_certain 7528 7535	MrBayes
+T12	software_certain 7728 7737	Modeltest
+T13	software_certain 8440 8452	Google Earth
+T14	software_certain 8727 8735	Arlequin
+T15	software_certain 8881 8886	IBDWS
+T16	software_certain 9248 9256	Arlequin
+T17	software_certain 9826 9834	Arlequin
+T18	software_certain 10303 10308	beast
+T19	software_certain 10833 10842	Modeltest
+T20	software_certain 11445 11451	Tracer
+T21	software_certain 11570 11581	LogCombiner
+T22	software_certain 11667 11680	TreeAnnotator
+T23	software_certain 11698 11706	Fig Tree
+T24	software_certain 11749 11754	EXCEL
+T25	software_certain 11834 11842	Arlequin
+T26	software_certain 11988 11995	GenePop
+T27	software_certain 12126 12131	Fstat
+T28	software_certain 12257 12267	Bottleneck
+T29	software_certain 12580 12590	Bottleneck
+T30	software_certain 12693 12701	Arlequin
+T31	software_certain 12761 12770	Structure
+T32	software_certain 13396 13404	Geneland
+T33	software_certain 14078 14085	migrate

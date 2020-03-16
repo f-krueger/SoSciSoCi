@@ -1,0 +1,6 @@
+T1	software_certain 3340 3379	UN-FAO Land Cover Classification System
+T2	software_certain 5404 5405	R
+T3	software_certain 5378 5379	R
+T4	software_certain 5424 5429	rgdal
+T5	software_certain 5431 5437	raster
+T6	software_certain 5442 5446	mgcv

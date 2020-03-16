@@ -1,0 +1,18 @@
+T1	software_certain 3752 3758	FastQC
+T2	software_certain 3824 3835	Trimmomatic
+T3	software_certain 4177 4181	STAR
+T4	software_certain 4270 4278	Samtools
+T5	software_certain 4732 4740	Mirdeep2
+T6	software_certain 4989 4994	BLAST
+T7	software_certain 5108 5116	Mirdeep2
+T8	software_certain 5423 5424	R
+T9	software_certain 5450 5455	edgeR
+T10	software_certain 5462 5467	vegan
+T11	software_certain 5477 5483	gplots
+T12	software_certain 5658 5659	R
+T13	software_certain 5653 5657	edge
+T14	software_certain 7241 7253	Primer-BLAST
+T15	software_certain 7647 7690	IBM Statistical Package for Social Sciences
+T16	software_certain 9203 9208	miRDB
+T17	software_certain 9581 9591	TargetScan
+T18	software_certain 9782 9787	miRDB

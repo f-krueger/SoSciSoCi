@@ -1,0 +1,1 @@
+Resulting High-scoring Segment Pairs (HSPs) were sorted by their blast bit-scores, and an average bit-score of the top 75% HSPs were calculated. 

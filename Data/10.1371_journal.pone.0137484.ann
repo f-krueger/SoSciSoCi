@@ -1,0 +1,16 @@
+T1	software_certain 246 256	FreeSurfer
+T2	software_certain 1008 1018	FreeSurfer
+T3	software_certain 1627 1658	FreeSurfer image analysis suite
+T4	software_certain 1827 1830	FSL
+T5	software_certain 1884 1888	AFNI
+T6	software_certain 1893 1896	FSL
+T7	software_certain 2249 2255	DTIFit
+T8	software_certain 2346 2356	FreeSurfer
+T9	software_certain 2456 2527	Statistical Analysis of Minimum cost path based Structural Connectivity
+T10	software_certain 3662 3666	ANFI
+T11	software_certain 3671 3674	FSL
+T12	software_certain 3757 3761	AFNI
+T13	software_certain 4797 4807	FreeSurfer
+T14	software_certain 13170 13180	FreeSurfer
+T15	software_certain 13579 13589	FreeSurfer
+T16	software_certain 14648 14658	FreeSurfer

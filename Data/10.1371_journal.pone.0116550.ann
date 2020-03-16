@@ -1,0 +1,10 @@
+T1	software_certain 232 241	BioNetGen
+T2	software_certain 38261 38270	BioNetGen
+T3	software_certain 38839 38844	CVODE
+T4	software_certain 38854 38862	SUNDIALS
+T5	software_certain 38806 38815	BioNetGen
+T6	software_certain 39008 39017	BioNetGen
+T7	software_certain 39078 39088	RuleBender
+T8	software_certain 39151 39160	BioNetGen
+T9	software_certain 40390 40394	AUTO
+T10	software_certain 40399 40406	MatCont

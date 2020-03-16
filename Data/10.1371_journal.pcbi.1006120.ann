@@ -1,0 +1,15 @@
+T1	software_certain 2164 2168	AFNI
+T2	software_certain 2412 2416	AFNI
+T3	software_certain 2462 2466	AFNI
+T4	software_certain 2774 2778	AFNI
+T5	software_certain 3290 3294	AFNI
+T6	software_certain 3813 3823	FreeSurfer
+T7	software_certain 3912 3916	AFNI
+T8	software_certain 4024 4030	PyMVPA
+T9	software_certain 4152 4162	FreeSurfer
+T10	software_certain 4830 4834	SUMA
+T11	software_certain 7176 7180	SUMA
+T12	software_certain 29340 29346	BootES
+T13	software_certain 34921 34927	PyMVPA
+T14	software_certain 35101 35112	NeuroDebian
+T15	software_certain 35044 35050	Debian

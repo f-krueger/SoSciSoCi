@@ -1,0 +1,1 @@
+To estimate the prevalence of SRH and SRD by gender, we used STATA S.E. 

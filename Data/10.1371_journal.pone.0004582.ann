@@ -1,0 +1,8 @@
+T1	software_certain 2625 2630	PLINK
+T2	software_certain 3137 3142	PLINK
+T3	software_certain 3502 3507	PLINK
+T4	software_certain 3926 3933	Primer3
+T5	software_certain 5143 5160	Mutation Surveyor
+T6	software_certain 6649 6654	BLAST
+T7	software_certain 7386 7405	UCSC Genome browser
+T8	software_certain 7530 7538	PolyPhen

@@ -1,0 +1,14 @@
+T1	software_certain 5680 5702	FMRIB Software Library
+T2	software_certain 6141 6176	FMRIB's Automated Segmentation Tool
+T3	software_certain 6860 6866	DTIFit
+T4	software_certain 6876 6901	FMRIB’s Diffusion Toolbox
+T5	software_certain 7152 7155	FSL
+T6	software_certain 7476 7506	FMRIB's ICA-based X-noiseifier
+T7	software_certain 7869 7872	FSL
+T8	software_certain 8067 8074	FSL-VBM
+T9	software_certain 8105 8158	FMRIB’s Integrated Registration and Segmentation Tool
+T10	software_certain 8363 8367	SPSS
+T11	software_certain 8464 8524	FMRIB’s Diffusion Toolbox and tract-based spatial statistics
+T12	software_certain 8648 8651	FSL
+T13	software_certain 10042 10046	SPSS
+T14	software_certain 10550 10555	CubeX

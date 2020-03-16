@@ -1,0 +1,24 @@
+T1	software_certain 12388 12393	SLINK
+T2	software_certain 13869 13874	PLINK
+T3	software_certain 13884 13892	PEDSTATS
+T4	software_certain 14869 14875	MORGAN
+T5	software_certain 16565 16572	PennCNV
+T6	software_certain 16582 16588	cnvHap
+T7	software_certain 16595 16602	PennCNV
+T8	software_certain 16882 16889	PennCNV
+T9	software_certain 16891 16897	cnvHap
+T10	software_certain 17361 17367	BEAGLE
+T11	software_certain 17498 17503	PLINK
+T12	software_certain 17638 17643	PLINK
+T13	software_certain 17855 17861	BEAGLE
+T14	software_certain 17886 17892	BEAGLE
+T15	software_certain 18909 18915	MERLIN
+T16	software_certain 19390 19414	Variant Effect Predictor
+T17	software_certain 19455 19461	GEMINI
+T18	software_certain 20397 20401	GATK
+T19	software_certain 20699 20707	PolyPhen
+T20	software_certain 20600 20623	Genome Variation Server
+T21	software_certain 20721 20760	Combined Annotation Dependent Depletion
+T22	software_certain 22062 22069	CoNIFER
+T23	software_certain 22329 22337	PEDSTATS
+T24	software_certain 22448 22453	PLINK

@@ -1,0 +1,16 @@
+T1	software_certain 2134 2142	cutadapt
+T2	software_certain 2152 2158	sickle
+T3	software_certain 2165 2169	GATK
+T4	software_certain 2417 2425	SAMtools
+T5	software_certain 2728 2732	GATK
+T6	software_certain 2881 2885	GATK
+T7	software_certain 2968 2989	GATK haplotype caller
+T8	software_certain 3909 3926	PLINK/SEQ i-stats
+T9	software_certain 4082 4087	PLINK
+T10	software_certain 4144 4149	PLINK
+T11	software_certain 5310 5318	BCFtools
+T12	software_certain 5374 5381	ANNOVAR
+T13	software_certain 7225 7230	PLINK
+T14	software_certain 9551 9577	Ingenuity Pathway Analyser
+T15	software_certain 10219 10220	R
+T16	software_certain 10221 10232	GeneOverlap

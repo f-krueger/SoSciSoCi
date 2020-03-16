@@ -1,0 +1,14 @@
+T1	software_certain 89 93	GRAB
+T2	software_certain 1378 1382	READ
+T3	software_certain 2290 2294	GRAB
+T4	software_certain 2316 2320	GRAB
+T5	software_certain 2965 2969	READ
+T6	software_certain 3972 3976	READ
+T7	software_certain 4837 4843	Python
+T8	software_certain 4861 4862	R
+T9	software_certain 4770 4810	Relationship Estimation from Ancient DNA
+T10	software_certain 4907 4911	READ
+T11	software_certain 6463 6467	READ
+T12	software_certain 7008 7012	READ
+T13	software_certain 7282 7286	READ
+T14	software_certain 8781 8789	samtools

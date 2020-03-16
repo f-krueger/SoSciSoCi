@@ -1,0 +1,10 @@
+T1	software_certain 4169 4180	BD FACSDiva
+T2	software_certain 5000 5006	FastQC
+T3	software_certain 5258 5265	Tophat2
+T4	software_certain 5479 5488	Cufflinks
+T5	software_certain 7784 7823	Expression Analysis Systematic Explorer
+T6	software_certain 8074 8078	EASE
+T7	software_certain 8310 8316	GSEA-P
+T8	software_certain 8793 8802	Cytoscape
+T9	software_certain 8753 8762	BisoGenet
+T10	software_certain 8824 8833	BisoGenet

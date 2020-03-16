@@ -1,0 +1,808 @@
+DOI,Sentence
+10.1371_journal.pmed.1000419,BCa confidence intervals were calculated using the statistical software SAS 9 and the %BOOT and %BOOTCI macros (http://support.sas.com/kb/24/982.html).
+10.1371_journal.pone.0200234,The collected data were analyzed using SPSS version 22.
+10.1371_journal.pone.0149335,"Receipt of QAC data was acknowledged, entered into a password-protected Microsoft Access database, and cross-checked through Microsoft Excel."
+10.1371_journal.pone.0022971,"Therefore, an individual can be traced from household to household over the course of his or her life (as long as he or she resides in the Matlab study area)."
+10.1371_journal.pone.0171407,Analyses were carried out using Stata version 12.
+10.1371_journal.pone.0127644,"Reliability analysis of the data and univariate analyses were performed using SPSS version 16.0 (SPSS Inc., Chicago, IL, USA) for Windows, and the SEM was produced using LISREL 8.5. χ2, RMSEA (root mean square error of approximation), SRMR (standardized root mean square residual), GFI (goodness-of-fit index), AGFI (adjusted goodness-of-fit index), and IFI (incremental fit index) were used to indicate whether the model was an adequate fit [34]."
+10.1371_journal.pone.0058070,All graph algorithms used in this article were implemented in Matlab and are available as part of the Brain Connectivity Toolbox (www.brain-connectivity-toolbox.net) [17].
+10.1371_journal.pone.0207173,Missing data were multiple imputed (10 estimations) using SPSS (Version 19.0).
+10.1371_journal.pone.0143118,Analyses were performed in SPSS version 18.0 (Version 18.0.
+10.1371_journal.pone.0211266,"Data analysis was conducted using SigmaPlot ver.12.3 (SYSTAT Software Inc., San Jose, CA, USA)."
+10.1371_journal.pone.0056620,Data processing and statistical analyses were performed using SPSS V·19 in 2012.
+10.1371_journal.pone.0198719,"Statistical analyses were performed using Stata software, version 13 (StataCorp, College Station, TX, US)."
+10.1371_journal.pone.0062593,"All descriptive statistics, ANCOVA, and multiple regression analyses were conducted using SPSS 19.0 (IBM, Armonk, New York)."
+10.1371_journal.pone.0194991,All statistical analyses were performed using STATA 13.0.
+10.1371_journal.pone.0064921,All analyses were adjusted for sample weights and NHANES complex survey design using Stata (11.2).
+10.1371_journal.pone.0060637,Data analyses were performed using SPSS software version 19.0.
+10.1371_journal.pone.0181310,The completed questionnaires were coded and entered into EPI info version 3.5.3 statistical software and then exported to SPSS windows version 20 program for analysis.
+10.1371_journal.pone.0206889,"Consistent with Résibois, Verduyn, and colleagues [11], each of the obtained 384 self-reported intensity profiles following negative feedback was first transformed into a function using the linear interpolation function (interp1) implemented in MATLAB R2016b [38] and then discretised into 44 equally distanced time points, corresponding to the number of images acquired during the period that participants read and thought about the feedback."
+10.1371_journal.pone.0047203,"15.0 (SPSS Inc., Tokyo, Japan) was used for all data analysis."
+10.1371_journal.pone.0202330,Statistical analyses of quantitative data were performed using Excel and custom shell scripts (Unix).
+10.1371_journal.pone.0122478,Simultaneous relationships among variables were tested using path analysis with IBM SPSS AMOS 22 software.
+10.1371_journal.pmed.1002357,"Demographic, clinical, and laboratory data from the electronic medical record and study forms were de-identified, entered into an Excel spreadsheet, and exported into Stata v14 software (StataCorp, 2011, College Station, Texas) for analysis."
+10.1371_journal.pone.0184676,All statistical analyses were performed in STATA version 14 [46].
+10.1371_journal.pone.0184750,"Significance was set at the p = 0.05 level, and analyses were conducted using IBM SPSS Statistics Version 24."
+10.1371_journal.pone.0106172,"In order to reduce variability in her movement duration, she wore a headphone connected to a PC on which a MATLAB code generated a rhythmic “beep”."
+10.1371_journal.pone.0052371,"For statistical analyses, the software package SPSS 18.0 (SPSS Inc., Chicago, IL, USA) was used."
+10.1371_journal.pone.0123911,"We classified each sequence at the family level, and used blast [36] to identify those OTUs that had been previously found in bees (blastn, e-value <0.0001)."
+10.1371_journal.pone.0086127,"As there was a group difference for BPVS and SAS scores (see Table 2), all analyses include these scores as covariates to partial out the variance attributed them."
+10.1371_journal.pone.0060637,Tests of gender interactions with psychosocial work factors were performed using SAS software.
+10.1371_journal.pone.0208129,We use Stata’s margins command to calculate proportions from saturated logit models and test the statistical significance of the differences between proportions using Wald tests of linear hypotheses.
+10.1371_journal.pone.0133603,"LCGM was performed in STATA (version 12.1, College Station, TX) using the traj procedure [24]."
+10.1371_journal.pone.0109241,"Distance matrices for the introductory syllable and the shared syllable measurements were built as the Euclidean distance between the group centroids of first discriminant functions using SPSS, in which variables were scaled to values between 0 and 1."
+10.1371_journal.pone.0181236,Analyses were conducted in STATA/IC14 with individuals as the unit of analysis.
+10.1371_journal.pone.0197479,"The analyses were performed using STATA v14 (StataCorp, College Station, TX)."
+10.1371_journal.pone.0076266,"Data were analysed using SPSS Statistics 21 for Macintosh (SPSS, IBM Inc.)."
+10.1371_journal.pgen.1002930,"Resulting High-scoring Segment Pairs (HSPs) were sorted by their blast bit-scores, and an average bit-score of the top 75% HSPs were calculated."
+10.1371_journal.pone.0172904,"All quantified regions were analyzed by Multivariate Analysis of Variance (MANOVA) for main effects of genotype, competition dose, and genotype x dose interactions using IBM SPSS Statistics 22."
+10.1371_journal.pone.0124690,The analyses were run using STATA MP 11.2.
+10.1371_journal.pone.0074258,Statistical Product and Service Solutions (SPSS) was used for analysis.
+10.1371_journal.pone.0195303,"Regression backward model selection was conducted, using IBM SPSS Statistics v20.0 package [94] to fit each model."
+10.1371_journal.pone.0192571,All statistical analyses were performed using STATA 14.0.
+10.1371_journal.pone.0066335,"All data were analyzed using IBM SPSS Statistics 20 (SPSS Inc, Chicago, IL, 2011)."
+10.1371_journal.pone.0184417,"Regression in SPSS version 24 is ruled out as it is limited to step-wise methods only, cannot conduct an all-possible subset analysis (used here for exploratory reasons), does not automatically identify and handle outliers, and cannot accommodate a model with a high variable to observation ratio [82]."
+10.1371_journal.pone.0113564,"Due to unequal sample sizes for deviant/non-deviant burials, as well as non-normal data distributions, non-parametric statistical tests (including Mann-Whitney U and Kruskal Wallis) were conducted using SAS 9.3."
+10.1371_journal.pone.0182465,"All statistical analyses were performed using STATA version 12 (STATA Corp, College Station, TX)."
+10.1371_journal.pone.0031878,"Analyses were carried out using SPSS v18 (SPSS inc, Chicago, USA) and SAS v9.2 (SAS, Cary, North Carolina, USA)."
+10.1371_journal.pone.0192119,"The quantitative data were analyzed using descriptive statistical analysis, correlations, and binominal logistics regressions on IBM SPSS Statistics 18 (Forward:LR method), and applying Latent Class Modeling (LCM) on LatentGold 3."
+10.1371_journal.pone.0093519,Analyses were performed using Stata 12.
+10.1371_journal.pone.0188187,All statistical analyses were performed using STATA® version 10.0 and R Studio version 3.2.2 for Macintosh®.
+10.1371_journal.pone.0054856,The statistical packages SPSS 15.1 and STATA 11.1 were used to carry out the analyses.
+10.1371_journal.pone.0160706,"The survey forms were scanned using an optical character recognizing (OCR) machine and data were analyzed using STATA 10.1 for Windows (Stata Corp, College Station, TX, USA) software."
+10.1371_journal.pone.0150537,Data was analyzed using Microsoft Excel and Statistical Package for Social Sciences (SPSS) version 16.
+10.1371_journal.pone.0109004,Analysis of local scale data across all crime types and the two counties (Nottinghamshire and Derbyshire) was done using general regression analysis applied to the log transformed mean and variance values with categorical variables using commercially available software (Minitab version 16.2; Minitab Inc.).
+10.1371_journal.pone.0187750,"Analyses were done using SPSS20 and SAS 9.4, the cut-off for statistical significance was set at p < .05."
+10.1371_journal.pone.0191646,All statistical analyses of this study were performed using SAS version 9.3 and STATA IC/SE 14.
+10.1371_journal.pbio.1001940,"The Matlab Regstats function was used to calculate the residual DBM effect size and dominance after controlling for confounding effects of age, weight, sex, and number of structural scans that had contributed to the average MRI scan used for each individual."
+10.1371_journal.pone.0186992,"The statistical analysis was done with Stata 14.1 (Stata Corp LP, College station, Texas)."
+10.1371_journal.pone.0191496,"All statistical analyses were performed with the aid of SPSS software version 22.0 (IBM Co., Armonk, NY, USA)."
+10.1371_journal.pone.0018905,"For the clusters showing a significant interaction, the “absolute GM content” (i.e., the sum of all voxel values of the cluster) and the “relative GM content” (i.e., the sum of all voxel values divided by the global GM) were further analyzed for the ASD and TDC using standard statistics software (SPSS, version 14.0.1)"
+10.1371_journal.pone.0183455,"Survey data from both SA and NZ (n = 4,842) were downloaded from SurveyMonkey [49] and initial data screening was conducted in Microsoft Excel."
+10.1371_journal.pone.0185968,"The x-y coordinates of the individual positions were extracted using the Ctrax software (Caltech Multiple Fly Tracker; version 0.3.12) and the associated FixErrors toolbox for MATLAB (v. 7.10.0 2010; MathWorks, Inc., Natick, MA, USA [34–35]; MATLAB v. 7.10.0)."
+10.1371_journal.pone.0152990,"All the other analyses were performed with SPSS version 17.0 (SPSS Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0185578,"For the purposes of the analysis, the dataset was partitioned by discipline and a Correspondence Analysis (CA) [41–43] was applied to these subsets following the procedure described in Díaz-Faes and Bordons [25] and using a MATLAB program [44]."
+10.1371_journal.pone.0034922,All analyses were performed using SPSS 19 (IBM SPSS Statistics 19.0.0).
+10.1371_journal.pone.0101939,"All analyses were conducted using the statistical software SPSS, Version 20 (IBM Statistics)."
+10.1371_journal.pone.0192764,Robust standard errors were utilized to estimate relative risks (RR) and 95%CI as well as the population attributable fraction using the punaf command in STATA [22].
+10.1371_journal.pone.0102820,An adapted version of Probability Weighted Iterative Generalised Least Squares technique was used for the WAACHS data to account for the complex survey design of children within families within communities using SAS software [33].
+10.1371_journal.pone.0012135,"All analyses were performed using STATA/SE 10.1 (StataCorp, College Station, TX, USA)."
+10.1371_journal.pone.0197351,"Descriptive and regression analyses were performed by using STATA statistical software v.14.1 (STATA Corp., College Station, TX, USA)."
+10.1371_journal.pone.0177725,S2 File is the Stata script that can be used to replicate all descriptive statistics reported below as well as the model estimates described in the main text and in the supplementary information.
+10.1371_journal.pone.0120878,"We used a Matlab implementation of the SPIKE-dist measure (http://wwwold.fi.isc.cnr.it/users/thomas.kreuz/sourcecode.html), with a temporal resolution of 1ms, to analyze our data."
+10.1371_journal.pone.0079777,We further BLAST searched this transcriptome for sequences with homology to the viruses genomes derived from our transcriptome data.
+10.1371_journal.pone.0176385,The analyses were performed using SAS v. 9.3.
+10.1371_journal.pone.0167253,"Data were analysed with SPSS version 21, using the mixed models analysis of variance procedure."
+10.1371_journal.pone.0147923,"Median values were compared using K-sample tests, and reductions in financial imbalances were examined over time by calculating maximum/minimum ratios.All analyses were performed using Stata 13.1 software [30]."
+10.1371_journal.pone.0164942,Analyses were made using Mplus 7.1 software [28] and IBM SPSS Statistics 22.0.
+10.1371_journal.pone.0049356,"We performed all analyses using the Statistical Package for the Social Sciences version 18.0 (SPSS Inc, Chicago, IL, USA)."
+10.1371_journal.pone.0185859,All statistical analyses were conducted with SPSS (v. 20.0.0.2) and R (v. 3.1.3).
+10.1371_journal.pone.0085809,"Data were analyzed with SPSS (version 19, SPSS Inc., Chicago, Illinois) and NCSS 2007 (Number Cruncher Statistical Systems, Utah, USA) statistical software packages."
+10.1371_journal.pone.0110271,"After preliminary exploration to identify causes of death for which there were positive, statistically significant zero-order correlations with county levels of infant mortality across all race-gender groups (not shown), we performed principal components analyses with an orthogonal rotation per SAS PROC Factor."
+10.1371_journal.pone.0090556,All data analyses were performed in SPSS (v.19) unless otherwise stated.
+10.1371_journal.pone.0042889,"All statistical analyses were performed using SPSS 15.0.1 for Windows (SPSS Inc., Chicago, IL, USA, 2006)."
+10.1371_journal.pone.0148337,All analyses were performed using SAS SURVEY procedures available in SAS version 9.04 software.
+10.1371_journal.pone.0199138,"All analyses were performed with SPSS for Windows (SPSS, version 23; Chicago, IL, USA), and p values < 0.05 (two-way) were considered to indicate statistical significance."
+10.1371_journal.pone.0133545,"Analyses were performed using Stata, version 13 (StataCorp LP, TX)."
+10.1371_journal.pone.0057380,One-way ANOVAs were used to test combined drug treatment and prenatal exposure effects on oxygen consumption and CO2 production (GraphPad Prism 5.0 d).
+10.1371_journal.pone.0205740,"Data were analyzed in Microsoft Excel 10.0 (Microsoft, Redmond, WA) and STATA/IC 12.1 (Stata Corp, College Station, TX)."
+10.1371_journal.pone.0176539,"Therefore, only the sex and month impacts were next compared, using two-way ANOVA and Tukey’s test (SAS Institute Version 9.13., 2002–2003 license 86636)."
+10.1371_journal.pone.0098977,Behavioral data were analyzed with SPSS/PASW 18.
+10.1371_journal.pone.0102820,An adapted version of Probability Weighted Iterative Generalised Least Squares technique was used for the WAACHS data to account for the complex survey design of children within families within communities using SAS software [33].
+10.1371_journal.pone.0182200,"We accessed the data using the visualization and data analytics software Tableau, and prepared data for analyses in both Tableau and Excel (Tableau 9.0, Tableau Software Inc.; Excel 14.4.2, Microsoft Corporation 2010)."
+10.1371_journal.pone.0151078,"All analyses were conducted using the STATA® package (Version 12, College Station, TX)."
+10.1371_journal.pone.0124258,"When analysing predictors of symptomatic improvement during the course of treatment, a longitudinal multilevel framework was applied using the linear mixed-effects models procedure in SPSS version 21."
+10.1371_journal.pone.0160378,Information from completed abstraction forms were entered into an Access database and imported into SAS for analysis.
+10.1371_journal.pone.0177629,We used the cp_apr function in the Matlab Tensor Toolbox [18].
+10.1371_journal.pone.0133693,"The analyses were conducted by using the PROCESS macro written by Andrew F. Hayes [38], which can be implemented in SPSS, and it is based on an ordinary least squares regression."
+10.1371_journal.pone.0137656,"Statistical analyses were performed using SPSS (version 17.0; SPSS Japan Inc., Tokyo, Japan)."
+10.1371_journal.pone.0037397,All results reported are two-tailed and were performed with SPSS version 16.0.
+10.1371_journal.pmed.1002427,All analyses were conducted using Stata version 14.
+10.1371_journal.pbio.1001820,Statistical analysis was performed using GraphPad Prism (version 4.0) and SPSS (version 20).
+10.1371_journal.pone.0015429,"Manual annotations of social/sexual interactions and wheel running activity were done manually using the Caltech Behavior Annotator program, a software tool created in MATLAB designed to facilitate the rapid manual annotation of video sequences."
+10.1371_journal.pone.0145638,Data are presented as (Mean ± SEM) and were analysed with IBM SPSS 22.0 software.
+10.1371_journal.pone.0188537,"Analysis were conducted using SPSS vs. 20.0 (IBM Corp., released 2011, Armonk, NY) and GraphPad Prism 7.0 software (GraphPad Software, Inc., San Diego, CA)."
+10.1371_journal.pone.0007758,"Statistical models were run using Proc Genmod in SAS v9.1.2 (Cary, North Carolina)."
+10.1371_journal.pone.0200519,"All the statistical analyses were performed using SAS (Version 9.3, SAS Institute, Cary, NC, USA)."
+10.1371_journal.pone.0081661,"To identify known miRNAs, we aligned all the small RNA reads to mature miRNAs and miRNA hairpins in miRBase13.0 with blast using an E-value threshold of 0.01."
+10.1371_journal.pone.0020989,"To create the actual movie files, in house made scripts were used, created with Matlab software (MathWorks, Massachusetts, U.S.A.)."
+10.1371_journal.pone.0192771,"All analyses were performed in Stata 14.0 (College Station, TX USA)."
+10.1371_journal.pone.0157909,For metric variables the mean was computed and univariate analysis of covariance (oneway ANOVA in SPSS) was applied.
+10.1371_journal.pone.0194444,"Data were pre-processed and analysed using SPM8 (Wellcome Department of Cognitive Neurology, London UK) (http://www.fil.ion.ucl.ac.uk/spm) running on MATLAB 2007b (Mathworks Inc., Natick, MA)."
+10.1371_journal.pone.0135809,"All of the data were inputted using the software SPSS 20.0 for statistical analysis, and the statistical significance was set at p<0.05."
+10.1371_journal.pone.0143203,"Recorded songs were filtered at 0.3–8 kHz for analysis using software in the Matlab Programming language (The MathWorks, Natick, MA)."
+10.1371_journal.pgen.1004356,Intensity tables were exported to excel and (ΔF−F)/F calculated for each series of images.
+10.1371_journal.pone.0086193,"Statistical analyses were performed using SPSS 20.0.0, except McNemar tests that were performed in R 3.0.0 [44]."
+10.1371_journal.pone.0190117,"Apart from Microsoft Excel [20] used to manage qualitative data, the statistical software Stata version 12 [21] was used to generate Table 1."
+10.1371_journal.pone.0182663,"The tool is built in MS Excel 2010 and consists of two modules: i) HPV vaccination, and ii) cervical cancer screening and treatment [15]."
+10.1371_journal.pone.0125808,All statistical tests were done with SPSS (v. 22).
+10.1371_journal.pone.0015118,All analyses were carried out in R (version 2.8.0) and Matlab (version 2009b).
+10.1371_journal.pone.0040529,Data from the surveys were double-entered and analyzed using SPSS ver.
+10.1371_journal.pone.0028904,The SAS software was used for data analyses [70].
+10.1371_journal.pone.0157108,SPSS 22 was used for analyses.
+10.1371_journal.pgen.1006498,"[72], probes not rated as “perfect” (50 out of 50 nucleotides match the reference genome) or “good” (48 to 49 out of 50 matches to the genome) were removed; so were probes that mapped to more than one genomic location according to BLAST queries[73] and probes that included a SNP (NCBI dbSNP Build 137); finally, only probes detected in at least 5% of the mice at a 0.95 detection level (as per GenomeStudio) were retained."
+10.1371_journal.pone.0157328,All analyses were conducted in SAS version 9.3.
+10.1371_journal.pone.0183386,Mean changes across the follow-up time points were analyzed using descriptive statistics in SPSS [34].
+10.1371_journal.pone.0160360,All statistical analyses were performed with the Mplus statistical package version 7.3 and IBM SPSS version 22.
+10.1371_journal.pone.0003755,"All analyses were performed using SAS/STAT® software version 9.1 (SAS Institute Inc., Cary, NC), Statistical Package for the Social Sciences® for Windows® (SPSS® version 14.1, SPSS Inc., Chicago, IL), and RevMan version 4.1 (Cochrane Collaboration, Oxford, UK)."
+10.1371_journal.pone.0155828,"All statistical analyses were performed using the SAS software version 9.4 (SAS Institute, Cary, NC, USA)."
+10.1371_journal.pone.0175117,Data were analyzed using version 17.0 version of SPSS software.
+10.1371_journal.pone.0153941,"For each participant, mean amplitudes of the components of interest (see above) were exported and read into SPSS (version 21, IBM)."
+10.1371_journal.pone.0162294,"The analyses were performed with the SPSS statistical programme, version 20.0 (S1 Dataset)."
+10.1371_journal.pone.0125605,"from 8 to 10 noise blast level) while the others simulated non-punishing (normative, i.e."
+10.1371_journal.pone.0069684,"The photographs were grayscaled and cropped to squares, their background was removed, and the luminance and contrast of the faces were equalized across conditions using in-house MATLAB code (MathWorks, Natick, MA)."
+10.1371_journal.pone.0121454,"All datasets were available online, MtF as SPSS datafiles [30] and AF as data tables [31]."
+10.1371_journal.pone.0197024,"As the name already indicates, the random effects model has the limiting assumption that the unobserved heterogeneity is randomly distributed, and therefore independent from the regressors (we have used the XTNBREG, FE command in Stata 8 to estimate our fixed effects model, and the XTNBREG, RE command in Stata 8 to estimate our random effects model)."
+10.1371_journal.pone.0097244,"From the csv-files, several song and syllable parameters were calculated using a custom-written Matlab routine (by SvM)."
+10.1371_journal.pone.0183799,"The experiment was programmed with the Experiment Builder Software (version 1.10.1630; SR Research Ltd., Ottawa, Canada) and data processing and analysis was performed using the open-source statistical programming language R (www.r-project.org) and Matlab® R2011b (Mathworks, Inc., Natick, MA, USA)."
+10.1371_journal.pone.0119862,"Overlapping voxels of activity resulting from these two conditions within the MNS mask were counted per participant using a custom code written in MATLAB, and then compared between groups using an independent sample t-test."
+10.1371_journal.pone.0148334,"To complement analysis of weighted positional scores, we used the coordinate data imported into MATLAB to construct a bar graph."
+10.1371_journal.pone.0045736,"All statistical analyses were carried out by using PASW Statistics 18 (SPSS Inc., Chicago, IL)."
+10.1371_journal.pone.0168104,"Data analyses were conducted with IBM SPSS statistics, version 20."
+10.1371_journal.pone.0105141,"All HB analyses used WinBugs 1.4, available from (http://www.mrc-bsu.cam.ac.uk/bugs/), and the R2WinBUGS package version 2.1–16."
+10.1371_journal.pone.0108355,"Data analyses were conducted using the SAS software version 9.1 (SAS, 2004) and SUDAAN (Research Triangle Institute, 2004)."
+10.1371_journal.pone.0094778,"Statistical analyses were performed in SPSS, version 20."
+10.1371_journal.pone.0194731,The data were manually entered into a database and analysed using the Statistical Package for the Social Sciences software (IBM SPSS Statistics 18).
+10.1371_journal.pone.0165624,"Indicators for psychosocial well-being included assessments of depression (Shorten version of Center for Epidemiological Studies Depression Scale for Children [CESD-10] with 10 item; α = 0.76), anxiety (Zung Self-Rating Anxiety Scale [SAS] with 20 items; α = 0.91), HIV management related self-esteem (α = 0.94), resilience (The 10-item Connor-Davidson Resilience Scale with 10 items; α = 0.96), social support (The Multidimensional Scale of Perceived Social Support [MSPSS], and The Medical Outcomes Study Social Support Survey [MOS-SSS-C] with 28 items; α = 0.98), and coping skills (Family Coping Project Coping Scale [FCPCS] with 25 items; α = 0.93)."
+10.1371_journal.pone.0152245,Average time spent on each odor source during a trial and number of visits to rosemary and eucalyptus before and after training was compared using paired Student’s T-tests in SPSS.
+10.1371_journal.pone.0104214,We used general linear models to determine if colony and patriline have a significant effect on the antimicrobial activity of a worker’s hemolymph using the GLM procedure in SAS Ver.
+10.1371_journal.pone.0132168,All data analyses were computed using SPSS 13.0 and AMOS 17.0.
+10.1371_journal.pone.0166154,"Finally, the traces were filtered with a loess filter (time window: 0.5 sec) using the ‘‘smooth()” function of Matlab, version R2013b."
+10.1371_journal.pone.0088929,"To analyze associations between individual and environmental variables and walking for transportation, we estimated several multilevel logit ordinal regression models using the Dual Quasi-Newton optimization estimation approach of Proc Glimmix in SAS 9.3 (SAS Institute Inc., Cary, North Carolina)."
+10.1371_journal.pone.0181955,The IBM SPSS Statistics version 24 was utilized for the statistical analysis.
+10.1371_journal.pone.0207691,The data were analyzed using a mixed logistic regression model using PROC GLIMMIX in SAS 9.2 with Audience ID as a nested random effect within the random effect for Session.
+10.1371_journal.pone.0093298,"To analyze time in mission effects, mixed model ANOVAs (Proc Mixed, SAS Version 9.3, SAS Institute Inc., Cary, NC) with a random intercept for crewmembers and unstructured covariance were performed with mission quarter (MQ) as the only explanatory variable (MQ1, days 1–130; MQ2, days 131–260; MQ3, days 261–390; MQ4, days 391–520) and with the scores from the mood scales (BDI-II and POMS-SF) and visual analog scales as outcome variables."
+10.1371_journal.pone.0192764,"Information was double entered using Microsoft Excel for Windows, and then transferred to STATA version 12 (STATA Corp, College Station, TX, US) for analysis."
+10.1371_journal.pone.0026761,All statistical tests were performed with GraphPad Prism® 4.
+10.1371_journal.pone.0165343,"All images were acquired through the Matlab Image Acquisition Toolbox (Mathworks, Matlab v2011b) at 2 frames/s (500 ms exposure) at 360x260 pixel (px) resolutions (using 4x4 hardware binning)."
+10.1371_journal.pone.0068444,"Statistical analyses were computed using SPSS version 19.0.1 (IBM, Somers, NY) and the plot was generated using Prism version 5.0d (GraphPad, La Jolla, CA)."
+10.1371_journal.pone.0136027,"Preprocessing and statistical analysis of the fMRI data was performed with SPM8 (Wellcome Department of Cognitive Neurology, London UK) software for MATLAB (Version R2010a, The MathWorks Inc., Natick, MA)."
+10.1371_journal.pone.0047335,Wilcoxon rank-sum tests were undertaken in Stata 11.
+10.1371_journal.pone.0023236,"Statistical tests were carried out using SPSS 16.0 (SPSS Inc., Chicago, IL) for Windows."
+10.1371_journal.pone.0097887,"Subsequently, we used a Butterworth filter in Matlab on the two time series of the positions, with a cut-off frequency of 4 Hz."
+10.1371_journal.pone.0056105,"Analyses were performed using SPSS version 17.0 (Chicago, IL)."
+10.1371_journal.pbio.2006328,"Then, we calculated separate linear mixed effects models for each of the six windows using the fitlme function in MATLAB."
+10.1371_journal.pone.0056945,"All analyses were performed using the Statistical Package for Social Sciences software program, version 16 (SPSS, Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0093253,"All of the analyses were performed using SAS (SAS Institute Inc., USA)."
+10.1371_journal.pone.0199877,"Data were analysed using STATA 12.0 (Stata Corp, College Station, TX, USA)."
+10.1371_journal.pone.0090779,"The word ‘hello’ was extracted from each recording, and normalised for power (RMS) and loudness via Matlab (the Mathworks)."
+10.1371_journal.pone.0150830,We built a generalized linear mixed model (GLMM) using the GLIMMIX procedure [43] in SAS v9.3 to identify factors associated with the occurrence of groups.
+10.1371_journal.pone.0081237,For the permutation test we used Matlab v. 7.10.0.499.
+10.1371_journal.pone.0048975,"All statistical analyses were carried out using GraphPad Prism version 5.04 for Windows, GraphPad Software, San Diego, CA, www.graphpad.com."
+10.1371_journal.pone.0094767,"From week 12 to 16 pregnant ewes had free access to salt blocks (TIMAC SAS, St Malo, France) after which time blocks were substituted by a cube containing vitamin-mineral corrector (INAFORM, Timac Agro, Orcoyen, Spain)."
+10.1371_journal.pone.0129040,"For analysing genotype effects in the purebred and intercross chickens, we used Generalized Linear Models (SPSS v. 22.0)."
+10.1371_journal.pone.0161108,"Data were entered, cleaned and analyzed using SPSS version 16."
+10.1371_journal.pone.0184525,"Statistical analyses were conducted using SPSS 23 (IBM Corp., Armonk, N.Y., USA)."
+10.1371_journal.pone.0146382,All statistical analyses were performed using IBM SPSS Statistics v.22.
+10.1371_journal.pone.0005987,"For the pre-processing and statistical analyses, the statistical parametric mapping software package (SPM5, Wellcome Department of Cognitive Neurology, London; www.fil.ion.ucl.ac.uk/spm) was used and implemented in Matlab (Mathworks, Inc., Natick, MA, USA release 14)."
+10.1371_journal.pone.0033028,"All data was analyzed using SPSS 14.0J (SPSS Inc., Chicago, IL) statistical package."
+10.1371_journal.pone.0097299,"All data analysis was performed offline in MATLAB environment (version R2010a, The MathWorks, Natick, MA) in a way that will allow later straightforward automatization of the analytic procedure."
+10.1371_journal.pone.0023105,"Non-parametric tests were applied using SPSS 17.0 (SPSS Inc.), with the level of significance set at alpha = 0.05."
+10.1371_journal.pone.0188962,Analyses were conducted in Stata 12.
+10.1371_journal.pone.0013531,"The results of E-β-ocimene influence on honey bee behavioural development were analysed with a two-ways ANOVA (years and treatments) followed by Fisher post-hoc test (STATVIEW 5.0, SAS Institute, Cary, NC)."
+10.1371_journal.pone.0196729,Statistical analyses were carried out using Stata 14.1.
+10.1371_journal.pone.0147654,The IBM Statistical Package for the Social Sciences (SPSS-22) software was used to analyze the quantitative data.
+10.1371_journal.pone.0053246,All regression analyses were performed using SPSS Statistics 19 [37] with a significance level at 0.05 and 95 percent confidence intervals.
+10.1371_journal.pone.0191405,"All analyses were performed using R version 3.2.4 (Vienna, Austria) and STATA version 14 (College Station, Texas)."
+10.1371_journal.pone.0158332,We conducted the analysis in STATA (version 13.1).
+10.1371_journal.pone.0049714,"The data was analyzed using SPSS® version 17.0 (SPSS Inc., Chicago, IL, USA) for Windows®."
+10.1371_journal.pone.0053114,"Statistical analysis was conducted using StatView (SAS Institute, Cary, NC)."
+10.1371_journal.pone.0086127,"As there was a group difference for BPVS and SAS scores (see Table 2), all analyses include these scores as covariates to partial out the variance attributed them."
+10.1371_journal.pone.0095146,"Conventional statistical analysis was performed on the mean whole brain SampEn and H values of each subject in both groups using the Statistical Package for Social Sciences (SPSS 18.0; Chicago, IL, USA) software."
+10.1371_journal.pone.0211470,"All analyses were performed in Stata version 13.1 (Stata Corp, Texas, USA)."
+10.1371_journal.pone.0145673,"Statistical analyses were conducted using SAS software, version 9.3 (PROC GENMOD, with options REPEATED, CORR = IND, DIST = BINOMIAL, LINK = LOGIT; SAS Institute, Inc., Cary, NC), and a P < 0.05 was considered statistically significant."
+10.1371_journal.pone.0206889,These time series were subsequently decomposed into two components using non-negative matrix factorization [39] (as implemented in MATLAB R2016b [38]).
+10.1371_journal.pone.0175713,"Data were analyzed using GraphPad Prism version 6.0f for Mac OS X, (GraphPad Software, La Jolla California USA, www.graphpad.com)."
+10.1371_journal.pone.0132340,These final effect sizes and their standard errors were then input to STATA together with relevant study information for the subgroup analysis.
+10.1371_journal.pone.0203543,"Then, we conducted one-way analyses of variance (ANOVA) with Dunnett’s test or T3 tests using SPSS 12 for Windows® (SPSS, Chicago, IL, USA) to determine significant differences between the control and VPA exposure groups."
+10.1371_journal.pone.0109392,"All statistical analyses that include independent samples t-tests, Cohen's effect size value, Pearson correlations, one-way analysis of variance (ANOVA) and 3*2 mixed-design, ANOVA were performed on the Software Package for Statistical Analysis (SPSS for Windows version 19.0), [24]."
+10.1371_journal.pone.0173342,"[27] STATA 13.0 was used for analysis in 2015, using the svy suite, given the sample design."
+10.1371_journal.pone.0175923,All data were analyzed with SPSS version 21.0 [34].
+10.1371_journal.pone.0143749,The univariate logistic regression analysis procedure in the complex samples add-on module in SPSS was used to test the differences between the male and female subjects on HIV stigma discrimination against PLWHA.
+10.1371_journal.pone.0155313,The data were prepared for analysis using Stata v13 [48] and the structural equation models were estimated using Mplus v7 [46].
+10.1371_journal.pone.0200313,The statistical software IBM SPSS Statistics version 22 [39] and R [40] were used for the statistical analyses.
+10.1371_journal.pone.0102880,"All analyses (except repeatability calculations) were run using JMP 9 (SAS Institute, Cary, NC) and we analyzed residuals to assess violation of ANOVA assumptions."
+10.1371_journal.pone.0047653,All the statistical analyses were carried out with IBM SPSS Statistics 19.
+10.1371_journal.pone.0096534,"The following preprocessing procedures were performed using Statistical Parametric Mapping (SPM8) software (Wellcome Department of Imaging Neuroscience; London, UK) implemented in MATLAB R2009b (MathWorks; Natick, MA, USA) for whole brain analysis: correction for head motion, adjustment of acquisition timing across slices, spatial normalization using the MNI template, and smoothing using a Gaussian kernel with a full width at a half-maximum of 5 mm."
+10.1371_journal.pone.0181610,"In the lose condition, participants received 8 noise blasts, one each after the 8 rounds they lost (noise blast sequence: 60, -, 70, 80, -, 100, 90, 90, 90, 90, 90)."
+10.1371_journal.pone.0197860,"All of the statistical analyses were conducted using SPSS17.0 (SPSS Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0199924,The statistics software SPSS 24 was used to perform descriptive data analysis in each sample (male and female) separately.
+10.1371_journal.pone.0173525,"MNI coordinates for the channels were obtained using the NIRS_SPM software [40] with MATLAB (Mathworks, Natick, MA), and the corresponding anatomical locations of each channel were determined by the atlas provided [41, 42] and shown in S1 Table."
+10.1371_journal.pone.0160360,All statistical analyses were performed with the Mplus statistical package version 7.3 and IBM SPSS version 22.
+10.1371_journal.pone.0023889,"We used SPSS v.17 to estimate univariate Spearman Rank correlations, and partial correlation and multiple regression with backwards exclusion to identify associations with smoking prevalence that were independently significant at p<0.05."
+10.1371_journal.pone.0046597,"Text files of the R-R interval data were extracted from the Polar watch and were entered into Kubios HRV (version 2.0, 2008, biosignal analysis and medical imaging group, University of Kuopio, Finland, MATLAB)."
+10.1371_journal.pone.0188234,"Data were analyzed using SAS version 9.4 (SAS Institute, Carey, NC)."
+10.1371_journal.pone.0208925,All statistical analyses were conducted using Stata (v.14).
+10.1371_journal.pone.0110907,"The data were analyzed with MIXED procedure in the IBM SPSS Statistics software, version 21 (IBM Corporation, Armonk, New York, USA)."
+10.1371_journal.pone.0073519,"All further statistical analyses (t-tests for dependent samples) were calculated using the software package SPSS 11.5 (SPSS Inc., Chicago, USA)."
+10.1371_journal.pone.0090309,All analyzes were conducted using SPSS (version 20).
+10.1371_journal.pone.0018521,SPSS and SAS were both used to analyse the data.
+10.1371_journal.pone.0009708,Calibrations of eye fixations were conducted at the beginning of the experiment using a nine-point fixation procedure as implemented in the EyeLink API (see EyeLink Manual) and using Matlab software.
+10.1371_journal.pone.0102471,"To create a set of control stimuli that retained acoustic correspondence, we synthesized nonvocal sounds by using Praat [44] and MATLAB (The MathWorks, Inc., Natick, MA, USA)."
+10.1371_journal.pone.0024858,"The data were analyzed using SPSS software (Statistical Package for the Social Sciences, version 17.0)."
+10.1371_journal.pone.0208623,All analyses were performed using Stata 14.2 [36].
+10.1371_journal.pone.0192999,"All statistical analyses were carried out with SAS, version 9.3 (SAS Institute Inc., Cary, NC) except for meta-analyses, which were performed using Comprehensive Meta-Analysis Version 2.2.027 software (Biostat, Englewood, NJ)."
+10.1371_journal.pone.0165634,"All the analyses were performed using Stata 12® (Stata Corporation, College Station, TX) and accounted for the complex sampling design and the data weighting so that the estimates are representative of the entire population of HIV-infected individuals followed at hospitals in France."
+10.1371_journal.pone.0195078,All data were entered into the IBM Statistical Package for the Social Sciences (SPSS) 18.
+10.1371_journal.pone.0157909,Calculations were done using SPSS 20.
+10.1371_journal.pone.0025035,All computations were done using SAS V9.2.
+10.1371_journal.pone.0073102,"The results are presented as a set of predicted probabilities of being fully immunized, estimated using logistic regression post-estimation command available in Stata 10.0 [52]."
+10.1371_journal.pone.0204213,"Data analysis was conduct using SPSS 17.0 (IBM, Chicago, IL,USA) and Mplus 6.1."
+10.1371_journal.pone.0199977,"Descriptive statistics of survey data were performed in STATA (Version 13; STATA Corp, College Station, TX, USA)."
+10.1371_journal.pone.0127644,"Reliability analysis of the data and univariate analyses were performed using SPSS version 16.0 (SPSS Inc., Chicago, IL, USA) for Windows, and the SEM was produced using LISREL 8.5. χ2, RMSEA (root mean square error of approximation), SRMR (standardized root mean square residual), GFI (goodness-of-fit index), AGFI (adjusted goodness-of-fit index), and IFI (incremental fit index) were used to indicate whether the model was an adequate fit [34]."
+10.1371_journal.pone.0104136,The API calls can be run on a specific tab in the Excel to analyze tweets.
+10.1371_journal.pone.0188931,"All statistical analyses were conducted using SAS 9.3 software package (SAS Institute, Cary, NC, USA)."
+10.1371_journal.pone.0192998,STATA version 13 was used to perform all statistical analyses.
+10.1371_journal.pone.0159086,Regression models were estimated using IBM SPSS Version 22.
+10.1371_journal.pone.0081725,"All subsequent analysis was performed with Matlab (Mathworks, Natick, MA, USA)."
+10.1371_journal.pone.0136208,"We used the AMOS extension to IBM SPSS (v. 21.0) for structural equation modeling in order to identify associations of AR CAG repeat number, ethnicity and age with the number of children, mediated through BPAQ aggression scores."
+10.1371_journal.pone.0151299,"Given that some families contributed more than one subject, hierarchical clustering of data was taken into account by including a family as a random effect in a linear mixed model, using the stata xtmixed command, fitted with restricted maximum likelihood estimation."
+10.1371_journal.pone.0092550,"STATA version 11.2 software (STATA Corp, College Station, TX, US) was employed for our analyses."
+10.1371_journal.pone.0146085,"All statistical tests were conducted in Stata 11 (Stata Corp., College Station, TX [41])."
+10.1371_journal.pone.0094007,"All analyses were performed using STATA 11.0 (Statacorp, College Station, TX)."
+10.1371_journal.pone.0029991,"The 2006-survey data were double entered and cleaned in Epi Info 6.04 (CDC, Atlanta; WHO, Geneva 1996), and analyzed with STATA 9.0 software (Stata Corp., College Station, TX)."
+10.1371_journal.pone.0166345,"Associations with teenage motherhood were modeled using multilevel logistic regression of the above structure using STATA MP statistical package version 14 (StataCorp L, College Station, Texas, USA)."
+10.1371_journal.pone.0135109,All statistical analysis was conducted in Minitab 16 (Minitab Ltd).
+10.1371_journal.pone.0123391,"The Matlab statistics toolbox was used for statistical analysis of the intensity data of the 25 hybridizations from five different treatments (SC, F, B, I, F+I or B+I)."
+10.1371_journal.pone.0195495,We imputed the data under an MAR assumption through multiple imputation using chained equations (Stata ICE package).
+10.1371_journal.pone.0115885,The data were tabulated and analyzed using software Epi-Info version 3.5.2 and SPSS version 19.
+10.1371_journal.pone.0128248,Mediation analysis was carried out with the commands “binary_mediation “and “bootstrap” in Stata 13 [52].
+10.1371_journal.pone.0182736,We loaded the transcripts into MAXQDA 11 which is a software tool used to analyze qualitative data [88].
+10.1371_journal.pone.0104225,"We undertook analyses in STATA, version 12."
+10.1371_journal.pone.0083558,The actual CVI was a proportion of the items that received a rating of 3 or 4 by the experts.Socio-demographic characteristics and SAS-SV scores.
+10.1371_journal.pone.0066204,SPSS version 18 is used for this analysis.
+10.1371_journal.pone.0071085,"All statistical analyses were done in Stata 12 (Stata Corp. Inc. TX, USA)."
+10.1371_journal.pone.0086237,"For the Alternating EE paradigm, statistical analyses were performed using SAS 9.3 statistical analysis software (SAS Institute)."
+10.1371_journal.pone.0022971,"Therefore, an individual can be traced from household to household over the course of his or her life (as long as he or she resides in the Matlab study area)."
+10.1371_journal.pone.0181132,"Analysis was then done by one researcher (SS) using MSOffice (Word and Excel, Microsoft Corp.) and NVivo (QSR International) software for qualitative data analysis."
+10.1371_journal.pone.0150491,Quantitative data was analysed in SPSS using descriptive statistics.
+10.1371_journal.pone.0198162,Survey responses were analyzed using STATA 15 [16].
+10.1371_journal.pone.0202012,Data were analysed with IBM SPSS version 22.0 for Windows.
+10.1371_journal.pone.0053879,"The data were analyzed using the Statistical Package for the Social Science (SPSS), version 17.0."
+10.1371_journal.pone.0145265,For statistical analysis we used Stata.
+10.1371_journal.pone.0182544,SPSS software (IBM SPSS statistics version 21) was used for statistical analyses.
+10.1371_journal.pone.0197552,"Analyses were conducted using SPSS version 22.0 statistical software packages (SPSS, Chicago IL, USA)."
+10.1371_journal.pone.0195693,All statistical analyses were performed with SAS (V 9.1.3) on a Win7 (64 bit) platform.
+10.1371_journal.pone.0197020,"This negative binomial mixed model regression was run using Stata 13.0 (StatCorp, College Station, TX)."
+10.1371_journal.pone.0185341,SPSS (version 22) was used for all analyses.
+10.1371_journal.pone.0186610,Data are weighted to control for the survey design and random intercept models run in Stata 13 [30].
+10.1371_journal.pone.0147654,The IBM Statistical Package for the Social Sciences (SPSS-22) software was used to analyze the quantitative data.
+10.1371_journal.pone.0020722,A BLAST search [40] confirmed the absence of contamination with exogenous DNA.
+10.1371_journal.pone.0155607,"The distributions of CES-D, SAS and PCL-C in categorical variables were calculated using independent sample t-test and one way analysis of variance (ANOVA)."
+10.1371_journal.pone.0053144,"Tests on initiatorship and overtaking were run with PASW Statistics 18 (SPSS Inc., Chicago, IL, 2009), the other tests were run using R software (R Development Core Team, Vienna, Austria, R2.11.1)."
+10.1371_journal.pone.0026641,"Four partial EST sequences for hexamerin (contigs 45616, 45913, 42334 and 40833: http://stan.cropsci.uiuc.edu/454/blast/waspblast.html) were available from the Polistes wasp EST data set to design primers."
+10.1371_journal.pone.0161923,All analyses were conducted using Stata version 13[41].
+10.1371_journal.pone.0015268,"Images were preprocessed and analyzed using SPM5 (Wellcome Department of Cognitive Neurology, London, UK), implemented in MatLab 7.2 (MathWorks™)."
+10.1371_journal.pone.0183799,"The GBVS algorithm is available as Matlab® source code, it is applicable without initial training and it performs well in predicting fixations in free viewing conditions [20,21]."
+10.1371_journal.pone.0173515,All statistical analyses used Stata v14 (StataCorp 2015) or R v3.2.2 (www.R-project.org).
+10.1371_journal.pone.0056936,"As with the first SAS, the term “Internet” in Y-scale was changed to “smartphone.” In this study, the internal-consistency test result (Cronbach's alpha) of Y-scale was 0.95."
+10.1371_journal.pone.0066222,All analyses were conducted using SPSS version 21.
+10.1371_journal.pone.0073519,"Further analyses regarding behavioural data (t-test for paired samples) were carried out using SPSS 11 (SPSS Inc., Chicago, USA)."
+10.1371_journal.pone.0002023,The resulting mean values for the activated regions were entered in an ANOVA (SPSS 11.5) comparison of the different conditions and regions.
+10.1371_journal.pone.0184008,We used Support Vector Machine (SVM) with linear kernel (using Matlab functions “svmtrain” and “svmclassify”) as multivoxel pattern classifier for discriminating between social vs. individual action intention.
+10.1371_journal.pone.0107621,"SPSS Statistics 20.0.0 statistical software (SPSS Inc., Chicago, IL) was used for all statistical analyses."
+10.1371_journal.pone.0141953,"To estimate the prevalence of SRH and SRD by gender, we used STATA S.E."
+10.1371_journal.pone.0207814,"Typed responses were imported into an Excel 2016 spreadsheet where each individual response was associated with participant diagnosis, memory specificity, and rated valence."
+10.1371_journal.pone.0192925,"20.0; SPSS Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0100914,Higher scores on the SDS or SAS indicated a higher level of mental disorder.
+10.1371_journal.pone.0159551,All such interviews were conducted by native language interviewers in each country using CATI-SPSS Dimensions software.
+10.1371_journal.pone.0093594,All data were analyzed in SPSS using macros for meta-analysis [60].
+10.1371_journal.pone.0173826,"All data were analyzed by SPSS (Version 23) by univariate and multivariate procedures, using two-sided t-tests and Chi2, respectively."
+10.1371_journal.pone.0143386,"Statistical analyses were performed using Prism v.6.0 (GraphPad Software, Inc., La Jolla, CA) and SPSS software (Chicago, IL), with a significance level of p<0.05."
+10.1371_journal.pone.0113618,All statistical analyses were performed using SPSS 12.0.
+10.1371_journal.pone.0193616,"All analyses were performed using SPSS (Version 22, release 22.0.0.2, IBM Corp., USA)."
+10.1371_journal.pone.0070297,"For the statistical analysis a statistical Software package (SPSS 17.0, Inc., Chicago, IL, USA) was used in order to perform independent T-tests and Mann-Whitney U tests for the comparison of the prevalence of temporary and permanent tinnitus per age category and for the analysis of the scores on the YANS and BAHPHL."
+10.1371_journal.pone.0056091,Statistical analyses were conducted using the Statistical Package for the Social Science (SPSS) version 19.0 and a p-value of less than 0.05 was used to define statistical significance.
+10.1371_journal.pone.0066571,"All statistic analyses were computed using Statistical Package for Social Science (SPSS, Chicago, Illinois, USA) software version 19.0 for Windows."
+10.1371_journal.pone.0190117,"Apart from Microsoft Excel [20] used to manage qualitative data, the statistical software Stata version 12 [21] was used to generate Table 1."
+10.1371_journal.pone.0153318,Analyses were performed in SPSS version 22.
+10.1371_journal.pone.0194919,"All analyses were conducted using SPSS version 24.0J (IBM Japan, Tokyo, Japan)."
+10.1371_journal.pone.0168303,We used the SAS system (version 9.3 SAS Institute Inc.) for statistical analysis.
+10.1371_journal.pone.0052371,"For statistical analyses, the software package SPSS 18.0 (SPSS Inc., Chicago, IL, USA) was used."
+10.1371_journal.pone.0037177,"All analyses were conducted using Stata version 11 (StataCorp, College Station, Texas) and Excel version 2007 (Microsoft Corporation, Redmond, Washington)."
+10.1371_journal.pone.0187691,All statistics were performed in STATA®/MP 13 software.
+10.1371_journal.pone.0190750,Chicago: SPSS Inc.
+10.1371_journal.pone.0004983,"Comb area, T and CORT concentrations were log-transformed and fitted to models using a normal error distribution (GLM or Mixed procedures; SAS, 2001)."
+10.1371_journal.pone.0005707,"These measurements were analyzed using SPSS to investigate whether apparent size in the two-dimensional plane that is visible to a perceiver varied across low, neutral, and high status cues."
+10.1371_journal.pone.0103849,"This was performed using the svyset and svy commands in Stata Version 12.1 (StataCorp, 4905 Lakeway Drive, College Station, Texas 77845, USA)."
+10.1371_journal.pone.0058176,Statistical analyses were conducted using Statistical Package for the Social Sciences Version 20.0 (SPSS 20.0) and Analysis of Moment Structures Version 20.0 (AMOS 20.0).
+10.1371_journal.pone.0143118,Chicago: SPSS Inc.).
+10.1371_journal.pone.0195200,Convenient integration between Matlab and Google Cloud was achieved through using a software called Techila Technologies.
+10.1371_journal.pone.0062701,Data from the tracking software was converted into Microsoft Excel format to allow further data analysis.
+10.1371_journal.pone.0069481,"The normality tests, repeated measures and multivariate ANOVAs, Student t-test (two-tailed) and Mann-Withney analysis were done using SPSS statistic 19.0 (IBM)."
+10.1371_journal.pone.0156216,All analyses were conducted with Stata 14.1 using sampling weights and the suite of svy commands to accurately estimate standard errors.
+10.1371_journal.pone.0201095,Studies were exported to remove the duplicates in Refworks™ and then exported to Microsoft Excel.
+10.1371_journal.pone.0191632,Data were entered using EpiData 3.0 and all statistical analyses were performed using SPSS 10.01.
+10.1371_journal.pone.0083558,Smartphone Addiction Proneness Scale (SAPS) was added to verify the concurrent validity of SAS-SV.
+10.1371_journal.pone.0101034,All analyses were conducted using Stata 12.1 [44].
+10.1371_journal.pone.0198867,The task was written in Matlab and presented using Psychophysics Toolbox.
+10.1371_journal.pone.0118484,"Data analysis was performed using the Statistical Package for the Social Sciences (SPSS for Windows, version 19.0, SPSS Inc, Chicago, IL, USA) and included frequency distribution and association tests."
+10.1371_journal.pone.0077645,We also used STATA 10.0 to calculate the equilibrium and Deff.
+10.1371_journal.pone.0191255,"We analyzed data in Stata version 14.0 (StataCorp, College Station, Texas)."
+10.1371_journal.pone.0157635,The distribution of individual mean values within these categories fitted to a normal distribution according to the Kolmogorov-Smirnov-Test as implemented in SPSS 22.0.
+10.1371_journal.pone.0106758,The analyses were performed using SPSS version 18 software.
+10.1371_journal.pone.0152765,"All statistical analyses were performed using SAS System for Windows version 9.3 (SAS Institute, Cary, NC)."
+10.1371_journal.pone.0094006,"All statistical analysis was carried out with STATA 12.0, Statacorp, College Station, Texas, USA."
+10.1371_journal.pone.0065085,All statistical analyses were carried out with SPSS 19.0 software for Windows.
+10.1371_journal.pone.0206932,"SPSS version 19.0 (SPSS Inc., Chicago, Ill., USA) was used for statistical data analysis."
+10.1371_journal.pone.0051755,The allocation of participants to samples has been performed randomly by applying the option of a random selection of cases in SPSS 18.
+10.1371_journal.pone.0160787,Individual treatment reports are all constructed in these excel documents.
+10.1371_journal.pone.0143203,"Recorded songs were filtered at 0.3–8 kHz for analysis using software in the Matlab Programming language (The MathWorks, Natick, MA)."
+10.1371_journal.pone.0142955,"SPSS version 22.0 (SPSS, Inc.), R [42] and EpiTools [43] programs were used to explore our datasets."
+10.1371_journal.pone.0191632,Data were entered using EpiData 3.0 and all statistical analyses were performed using SPSS 10.01.
+10.1371_journal.pone.0088586,Statistical analysis was carried out using STATA 11.2 [18].
+10.1371_journal.pone.0184327,All analyses were done using IBM SPSS Statistics 20 (IBM Corp 2011) [35].
+10.1371_journal.pone.0200519,"Based on two-sample Wilcoxon rank-sum test with a two-tail test α of 5% with 80% power, it was estimated that at least 96 mother-child pairs would be required to detect a 20% difference in the mean duration of ABF between the intervention and control groups (POWER procedure, SAS Version 9.3, SAS Institute, Cary, NC, USA)."
+10.1371_journal.pone.0062322,"Genetic correlations with antipsychotics dosage, PANSS score, and altruistic tendency were analyzed using the linear-by-linear association test, Mann-Whitney U test and linear regression tests in the SPSS v11.5 package (SPSS, Chicago, IL, USA)."
+10.1371_journal.pone.0055503,"We conducted all analyses in SAS [45], and used residual analyses to confirm the usual normality and homoscedasticity assumptions."
+10.1371_journal.pone.0172204,We used STATA 13.1 for the univariate and multivariate statistical analyses.
+10.1371_journal.pone.0174512,The main outcome criterion was the “couple” SAS domain score obtained 1 year after surgery in PD patients.
+10.1371_journal.pone.0143579,"Stata version 13.1 (Stata Corp LP, College Station, Texas) was used to estimate the analysis models."
+10.1371_journal.pone.0095894,"Statistical analyses were performed using SPSS for Windows software version 15.0 (SPSS Inc., Chicago, IL)."
+10.1371_journal.pone.0162039,"All preprocessing, time–frequency SPM analyses, and ERP analyses were performed using SPM8 (http://www.fil.ion.ucl.ac.uk/spm) implemented in MATLAB R2012b (MathWorks)."
+10.1371_journal.pone.0190442,"Data processing and statistical analyses were conducted using IBM SPSS 22.0 (IBM Corp., Armonk, NY), MATLAB R2015a (The MathWorks, Natick, MA), R 3.3.2 (http://www.R-project.org/), and Python libraries for scientific computation (NumPy, and SciPy) [39]."
+10.1371_journal.pone.0096460,"The Statistical Package for the Social Sciences (SPSS) Version 19.0 (SPSS, Chicago, IL) and XLSTAT (Addinsoft SARL, Germany) were used to conduct analyses."
+10.1371_journal.pone.0065504,"The data were entered into Epi Info version 6 and transferred into SPSS version 17 (SPSS Inc, Chicago, IL, USA)."
+10.1371_journal.pone.0167991,All statistical analyses were performed in SPSS 23.
+10.1371_journal.pone.0102172,"For questions for which answers could be “yes,” “I don't know” or “no,” (e.g., “Did any of the field sites have a code of conduct?”), KH and JR conservatively bifurcated responses into “yes” and “not yes.” Chi-square, t-test, and regression models were constructed in JMP 9.0 (SAS, Inc)."
+10.1371_journal.pone.0194763,We used the Statistical Package for Social Sciences (IBM SPSS v. 24.0.0.0) for all analyses.
+10.1371_journal.pbio.2002556,All other processing and the analysis of the data were performed using Matlab 8.
+10.1371_journal.pone.0051158,"The ANOVAs and linear contrasts were performed with SAS version 8.1 (SAS Institute Inc.), while the correlation analyses were performed with JMP (SAS Institute Inc.)."
+10.1371_journal.pone.0146956,Data were statistically analyzed using SPSS Statistics 20.0.0.1.
+10.1371_journal.pone.0008483,The simulations were run in Excel from Microsoft Office.
+10.1371_journal.pone.0072481,"Data were analyzed using SPSS for Windows (version 20.0, 2012, SPSS Inc., Chicago, IL, US)."
+10.1371_journal.pone.0183788,Codes developed from the qualitative data on motivators and quantitative data on demographic characteristics were entered in to SPSS version 21 for analysis.
+10.1371_journal.pone.0198423,"With the aim of further refining the variable assessment of the phenomenon and attending to its specificity, an extra field ‘general comments’ was added to the Excel matrix, which allowed us to qualitatively address specific aspects that had driven the usage of a specific code and that later would help us to refine the definition by category and code."
+10.1371_journal.pone.0088586,Statistical analysis was carried out using STATA 11.2 [18].
+10.1371_journal.pone.0129478,The raw data are available as Supporting Information file S1 Dataset (in Excel format).
+10.1371_journal.pone.0117359,Analyses were performed using SPSS 14.0.
+10.1371_journal.pone.0185733,"Instead, we applied a custom built MATLAB routine (using the speech processing toolbox ‘voicebox’ in MATLAB v. R2014a) to extract acoustic ‘features’ (mel-frequency cepstral coefficients; MFCCs) from single screams and chorus excerpts."
+10.1371_journal.pone.0090789,"All analyses were performed using STATA 11 (Stata Corporation, College Station, TX, U.S.A.)"
+10.1371_journal.pone.0171316,"All analyses utilized weighted data proportional to sampling probability with village, GV, and health facility cluster weights; standard errors were computed using SAS 9.3 and STATA 14 procedures to account for the complex sampling design."
+10.1371_journal.pone.0192909,"All analyses were undertaken using Stata 15.0 (StataCorp, College Station TX)."
+10.1371_journal.pmed.1002159,Data analysis was performed using STATA 13; a statistical analysis plan was developed prior to endline data collection and discussed with the funder and program implementers.
+10.1371_journal.pone.0085224,Data were statistically analyzed using SPSS Statistics 20.0.0.1.
+10.1371_journal.pone.0173457,"Offline filtering and heart beat detection were also conducted in AcqKnowledge before the data were exported into SPSS (Version 23, IBM Corp, USA, NY)."
+10.1371_journal.pone.0084339,Analysis of the data occurred using SPSS.
+10.1371_journal.pone.0065274,Stimulus presentation and timing of all stimuli and response events were achieved using Matlab (Mathworks) and Psychtoolbox (www.psychtoolbox.org) on an IBM-compatible PC.
+10.1371_journal.pone.0157119,"Descriptive statistics of the outcome measure, psychological distress, and the percentage distribution of the variables in the sample were calculated using SPSS Complex Samples, weighting for gender, age and city district."
+10.1371_journal.pone.0031660,Random effects meta-regressions were also performed in Stata using the package metareg [44].
+10.1371_journal.pone.0125105,"Recommendations, defined as strong declarative statements [27] that were actionable and applicable by a multidisciplinary intersectoral team of professionals in a comprehensive hospital-based elder abuse intervention, as determined by the research team, were collected in a separate excel table."
+10.1371_journal.pone.0096632,"All statistical comparisons were performed within GraphPad Prism 5 (GraphPad Software, Inc., La Jolla, CA)."
+10.1371_journal.pone.0056674,"All analyses were conducted in Stata v.12 (StataCorp, TX, USA)."
+10.1371_journal.pone.0079777,GenBank match denotes the GenBank accession number of the closest GenBank BLAST match.
+10.1371_journal.pone.0022093,The sound data obtained were analyzed using SAS Lab Pro (Avisoft).
+10.1371_journal.pone.0185815,"Measurement model analysis was conducted using AMOS 23, whereas the remaining analyses were computed using SPSS 23."
+10.1371_journal.pone.0189607,"We conducted analyses using the complex survey functions of Stata (version 14) to incorporate weighting, clustering, and stratification of the Natsal-3 data."
+10.1371_journal.pone.0165359,"Initial descriptive statistics were calculated in MS Excel®, with subsequent statistical analysis conducted using IBM SPSS Statistics v22®."
+10.1371_journal.pone.0122085,All quantitative analyses were conducted using SPSS Statistics 21.
+10.1371_journal.pone.0210587,Data extraction was managed in Microsoft Excel using a data extraction proforma developed specifically for this review.
+10.1371_journal.pone.0210183,"Analyses were conducted using SPSS version 24 for Mac (IBM SPSS Statistics for Windows, Version 23."
+10.1371_journal.pone.0186651,"We used SAS 9.4 (SAS Institute, Cary, NC, USA) for data set-up and analyses."
+10.1371_journal.pone.0155313,The data were prepared for analysis using Stata v13 [48] and the structural equation models were estimated using Mplus v7 [46].
+10.1371_journal.pone.0147712,Analyses were conducted using SPSS version 20.0.
+10.1371_journal.pone.0197483,The multiple mediation analysis was performed using PROCESS for SPSS [29].
+10.1371_journal.pone.0162039,"All preprocessing, time–frequency SPM analyses, and ERP analyses were performed using SPM8 (http://www.fil.ion.ucl.ac.uk/spm) implemented in MATLAB R2012b (MathWorks)."
+10.1371_journal.pone.0151783,All analyses were performed using Stata 12.0 SE.
+10.1371_journal.pone.0168858,"The visual stimuli were generated using Psychophysics toolbox [49–51] in MATLAB (The MathWorks Inc., Natick, MA)."
+10.1371_journal.pone.0071922,"To evaluate whether the eight items formed a one-dimensional homogenous scale we performed Mokken Scale analysis for polytomous items [34], using the STATA 12.1 command MSP [35]."
+10.1371_journal.pone.0095894,"Statistical analyses were performed using SPSS for Windows software version 15.0 (SPSS Inc., Chicago, IL)."
+10.1371_journal.pone.0102820,"SAS version 9.2 was used for all analyses (SAS Institute Inc., Cary, NC, USA, 2000–2008)."
+10.1371_journal.pone.0162646,Data were analyzed using SAS® 9.2 and STATA® 12 statistical software®.
+10.1371_journal.pone.0079777,"As cut off criteria in the BLAST searches we used a minimum alignment length of 100nt, E-value 0.001 a word size of 11, and a minimum of 70% sequence identity."
+10.1371_journal.pone.0130474,"In order to investigate whether sex and body weight could influence the inter-individual variation in the behavioural responses (reflected in the PCs), we performed a general linear model (GLM) as well as linear regressions using SAS."
+10.1371_journal.pone.0067887,Analyses were performed by using the statistical package STATA version 11.
+10.1371_journal.pone.0065442,"Using SPSS version 18, inter-rater agreement prior to discussion and consensus was calculated as κ = 0.71, indicating substantial agreement."
+10.1371_journal.pone.0148440,"The data were managed and analyzed using the statistical software package SPSS (Version 18.0 for Windows SPSS, Inc., Chicago, Ill)."
+10.1371_journal.pone.0205197,"Moreover, to assess the statistical significance of the frequency of interactions won, we performed a binomial test using the GraphPad software (www.graphpad.com)."
+10.1371_journal.pone.0189023,"All three stages of analysis were conducted using SPSS software (IBM SPSS Statistics 20, IBM Corporation)."
+10.1371_journal.pone.0121970,"The automatic classification was performed in MathWorks Matlab, using the PRTools toolbox [57]."
+10.1371_journal.pone.0195671,"Cases were extracted from the transcripts with the help of qualitative data analysis software, MaxQDA (version 12), and coded using framework analysis."
+10.1371_journal.pone.0146886,Lesion and whole brain areas for each slice were brought into Excel for final volume calculations.
+10.1371_journal.pone.0152233,These analyses were performed using IBM SPSS v. 21.
+10.1371_journal.pone.0069481,"Linear regression analyses were performed using statistical analyses software (SAS 9) version 9.2 (SAS Institute, Cary, NC)."
+10.1371_journal.pone.0166418,"All statistical analyses were performed using the SPSS 19.0 software package (SPSS Inc., Chicago, IL, USA).P-values<0.05 were considered statistically significant."
+10.1371_journal.pone.0116542,"All the statistical analyses were conducted using IBM SPSS Statistics, version 20.0."
+10.1371_journal.pone.0190750,Chicago: SPSS Inc.
+10.1371_journal.pone.0138887,"“Tabodds”, a STATA command tabulates unadjusted and adjusted odds ratios (OR), for each level of the exposure variable against a reference level which by default was the lowest level of the social capital quintile variable[27]."
+10.1371_journal.pone.0160558,ToP and demographic data were entered into SPSS version 19.
+10.1371_journal.pone.0185135,"All data were analysed using the IBM SPSS Statistics 22 (IBM, NY, USA) software package."
+10.1371_journal.pone.0143612,The statistical package for social science 18.0 (SPSS 18.0) program was used for statistical analysis.
+10.1371_journal.pone.0137656,"Statistical analyses were performed using SPSS (version 17.0; SPSS Japan Inc., Tokyo, Japan)."
+10.1371_journal.pone.0099782,"All data obtained from the communities were recorded using EPI INFO version 5 (CDC, Atlanta) and imported into Microsoft Excel."
+10.1371_journal.pone.0073814,"All statistical analyses were conducted using the SPSS version 17.0 (IBM Inc., Armonk, NY, USA)."
+10.1371_journal.pone.0167103,All statistical analyses were undertaken using Stata 12.
+10.1371_journal.pone.0053052,The data were analysed using Statistical Analysis Systems (SAS) version 9.2.
+10.1371_journal.pone.0101372,"All analyses were conducted using PASW Statistics 18 (SPSS Inc., 2009, Chicago, IL, USA) and were two-tailed with a critical p-value of 0.05."
+10.1371_journal.pone.0026788,"We carried out the analyses using SPSS 10.0 (SPSS Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0168445,"Microsoft Excel and Statistical Package for the Social Sciences (SPSS Version 22.0; Chicago, IL, USA) were used for all data analysis."
+10.1371_journal.pone.0207378,SPSS (version 24) was also used to analyse response times with repeated measures analysis of variance (ANOVA).
+10.1371_journal.pone.0190254,Responses were then analyzed using SPSS version 23 to determine descriptive frequencies.
+10.1371_journal.pone.0198719,"Statistical analyses were performed using Stata software, version 13 (StataCorp, College Station, TX, US)."
+10.1371_journal.pone.0197483,The data analysis was carried out using SPSS version 22.
+10.1371_journal.pone.0141881,A moderated hierarchical regression was performed using SPSS (IBM) to estimate the amount of variance in child birthweight explained by stressor and distress variables separately and by the interaction among stressors and maternal characteristics.
+10.1371_journal.pone.0065504,"The data were entered into Epi Info version 6 and transferred into SPSS version 17 (SPSS Inc, Chicago, IL, USA)."
+10.1371_journal.pone.0049748,Stimuli were presented using the Cogent 2000 toolbox (http://www.vislab.ucl.ac.uk/cogent.php) for MATLAB (The Mathworks Inc.) on LCD-goggles (Resonance Technology Inc.).
+10.1371_journal.pone.0206889,"Consistent with Résibois, Verduyn, and colleagues [11], each of the obtained 384 self-reported intensity profiles following negative feedback was first transformed into a function using the linear interpolation function (interp1) implemented in MATLAB R2016b [38] and then discretised into 44 equally distanced time points, corresponding to the number of images acquired during the period that participants read and thought about the feedback."
+10.1371_journal.pone.0201215,We carried out all our analyses using Stata 12 [50].
+10.1371_journal.pone.0164615,"To investigate the relationship between the physiological correlates (HRV and IS) and ER as well as parental psychopathology, partial correlation tests were calculated (alpha = .05, two-tailed) with the SPSS software package (version 20, IBM, Chicago, IL, USA)."
+10.1371_journal.pone.0012758,"We modeled group size for wildebeest and zebra as a function of habitat type, season and lion UD using generalized linear models in SPSS 15.0."
+10.1371_journal.pone.0086283,We fit the conditional likelihood methods and estimated model parameters using maximum likelihood methods and routines in Stata 11.
+10.1371_journal.pone.0161097,We used the method of random number table by SPSS to select the towns and villages.
+10.1371_journal.pone.0194178,"The SPSS 22.0 software package, Chinese version, was used to analyse the data."
+10.1371_journal.pone.0107543,All analyses were conducted using Stata V.11 [16].
+10.1371_journal.pntd.0006622,"Data analysis was performed in Stata, version 15.0, and R, version 3.4.0."
+10.1371_journal.pone.0032564,"A general linear model with 1 factor (Minitab® v15.0, α = 5%) was used to compare times to initial movement and times to trial completion (when earthworm reached the central region or the edge of the arena) when different numbers of earthworms were presented."
+10.1371_journal.pone.0093821,GraphPad Prism 5.02 was used for statistical calculations.
+10.1371_journal.pone.0042889,"All statistical analyses were performed using SPSS 15.0.1 for Windows (SPSS Inc., Chicago, IL, USA, 2006)."
+10.1371_journal.pone.0139337,The SAS and SAS-M (Table A in S1 Text).Malay version of the Internet Addiction Test.+++End Section+++
+10.1371_journal.pntd.0004424,Recurring topics were explored more in depth by revisiting the original transcripts and grouping relevant quotes in Microsoft Excel.
+10.1371_journal.pone.0156150,"and the Matlab, R: and C software routines they used were used in this analysis [44,103]."
+10.1371_journal.pone.0025948,Statistical analyses were performed using SPSS© version 18.0 (Statistical Package for the Social Sciences).
+10.1371_journal.pone.0168748,Descriptive statistics were performed using Graphpad Prism 6.
+10.1371_journal.pone.0040101,"All meta-analyses and statistical analyses in the pooled individual-level data were performed using Stata SE 11.0 (Stata Corporation, College Station, Texas, USA)."
+10.1371_journal.pone.0170973,We used MATLAB to run the task and collect participants’ responses.
+10.1371_journal.pone.0032002,"All statistical analyses were conducted using the computer program SPSS (version 18.0, SPSS, Inc., Chicago, IL)."
+10.1371_journal.pone.0185661,"All analyses accounted for complex survey design using SUDAAN 11.0 (RTI, Research Triangle Park, North Carolina) and were weighted to account for the selection of HCHS/ SOL participants with unequal probabilities [24] and were performed using SAS version 9.3 (SAS Institute, Cary, NC) and SUDAAN release 11.0.1 (RTI International, Research Triangle Park, NC)."
+10.1371_journal.pone.0197023,"Generalized Linear Mixed Models (GLMM) analyses were conducted, using IBM SPSS Statistics, Version 25, to examine the effects of tDCS on patients’ performance on social cognitive, neurocognitive, and EEG measures."
+10.1371_journal.pone.0167719,These data were analysed using SPSS (version 21) for Windows.
+10.1371_journal.pone.0195163,"We used STATA 13.0 (College Station, TX) for all analyses."
+10.1371_journal.pone.0197961,All statistical analyses were conducted using SPSS Statistics 23.0 and AMOS version 23.0.
+10.1371_journal.pone.0167398,SPSS 18.0 and Mplus 7.0 (using an exploratory LPA) were used to analyze the data.
+10.1371_journal.pone.0147274,The data was analysed using EpiData Analysis software (Version 3.1.80) and Stata (Version 12).
+10.1371_journal.pone.0155617,Scores were calculated using the “PCA” and “predict” commands in Stata.
+10.1371_journal.pone.0149395,All analyses were undertaken using the IBM SPSS 22 software.
+10.1371_journal.pone.0033690,All analyses were performed with SAS software 8.2 (USA).
+10.1371_journal.pone.0096355,"In order to analyse the relationships between ‘number of teeth’ and anthropometric measures, we categorised participants into five approximately equal sized groups (using xtile in stata) based on number of paired of teeth (teeth are known to erupt in pairs), both for clarity and to maximize statistical power."
+10.1371_journal.pone.0048076,"Once extracted, ROI βs were submitted for analysis in SPSS."
+10.1371_journal.pone.0175923,All data were analyzed with SPSS version 21.0 [34].
+10.1371_journal.pone.0137126,"Rxy(τ)=1Nt−1∑tNt−τ(x(t+τ)−x¯)(y(t)−y¯)σxσy(1)The linear trend of time series signals (x(t) and y(t)) was excluded using the “detrend” function of MATLAB (The MathWorks Inc, USA) and the signals were filtered using Hanning windows of the same size as the data length before their cross correlation was calculated (the MATLAB’s “detrend” function computes the least-squares fit of a straight line to the data in question and subtracts the resulting function from the data)."
+10.1371_journal.pone.0178359,"On average, the online survey took approximately 10–15 minutes to complete and data collected was downloaded from Questionpro in SPSS’s data file format."
+10.1371_journal.pone.0158056,All analyses were conducted using STATA v9 and all p-values refer to two-tailed tests.
+10.1371_journal.pone.0094295,All the analyses in this paper were performed with STATA 11.0 software.
+10.1371_journal.pone.0092862,Statistical analyses were performed using PASW Statistics version 18 for Windows (SPSS Inc.).
+10.1371_journal.pone.0008775,"All statistical analyses were performed using the statistical package SAS, version 9.1 (SAS Institute, Inc., Cary, North Carolina)."
+10.1371_journal.pone.0049714,"The data was analyzed using SPSS® version 17.0 (SPSS Inc., Chicago, IL, USA) for Windows®."
+10.1371_journal.pone.0066353,All analysis was completed using Stata Version 11.0.
+10.1371_journal.pone.0081836,Interviews were transcribed and then manually coded using Microsoft Word and Excel.
+10.1371_journal.pone.0129805,"All statistical analyses were conducted using SPSS Statistics 22 (Dynelytics, Zurich, Switzerland)."
+10.1371_journal.pone.0131604,"All statistical analyses were performed using SPSS version 19 (IBM Corp., Armonk, NY)."
+10.1371_journal.pone.0205887,All analyses were run in SPSS 25.
+10.1371_journal.pone.0146886,Lesion and whole brain areas for each slice were brought into Excel for final volume calculations.
+10.1371_journal.pone.0100188,"Statistics were carried out using PASW Statistic 18 software (SPSS Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0190921,"Here, we used a derivative of a Gaussian filter as a temporal gradient filter suggested by Simoncelli and colleagues [28] (see also MATLAB built-in function opticalFlowLKDoG)."
+10.1371_journal.pone.0041805,"Results were computed using SPSS ver.15 (SPSS Inc, Illinois, USA), employing the ‘Complex Samples’ procedure required when using probability weights."
+10.1371_journal.pone.0170204,"Crude and adjusted relative risks (RR) for dependence at 12, 24 and 36 months were statistically assessed by Poisson regression model using Statistical Analysis System software version 9.2 with PROC GENMOD (SAS Institute Inc, Cary, NC) [21,22]."
+10.1371_journal.pone.0012758,"Group composition, as measured by the proportion of females in each group (arcsin transformed for analysis), was similarly modeled using generalized linear models in SPSS 15.0."
+10.1371_journal.pone.0002868,"ANOVAs were also performed with a between-subject factor of “attachment style” (SAS, AXS, or AVS, as determined individually by AAQ scores), to examine whether these individual traits would modulate visual inspection times, but these analyses showed no main effect of attachment nor interaction with conditions (all Fs<1.1)."
+10.1371_journal.pone.0185733,"Instead, we applied a custom built MATLAB routine (using the speech processing toolbox ‘voicebox’ in MATLAB v. R2014a) to extract acoustic ‘features’ (mel-frequency cepstral coefficients; MFCCs) from single screams and chorus excerpts."
+10.1371_journal.pone.0154496,"Statistically significant moderation paths (see Fig 2) were probed using PROCESS, an add-on for SPSS [32]."
+10.1371_journal.pone.0171782,All statistical tests were analysed using IBM SPSS version 22.
+10.1371_journal.pone.0043294,The models were run using xtlogit in Stata 11.2 with a maximum likelihood estimation procedure.
+10.1371_journal.pone.0106749,"Statistical analysis was performed with SPSS version 20 software (IBM Corporation, Armonk, New York, USA)."
+10.1371_journal.pone.0048740,The resampling procedures were conducted in Microsoft Excel 2010 using VBA code written by FAC (Appendix S2).
+10.1371_journal.pone.0052206,"Outcomes were analyzed using unweighted linear or logistic regression (SAS/STAT software, version 9.2)."
+10.1371_journal.pone.0201099,All statistical analyses were conducted using IBM SPSS Statistics 21.
+10.1371_journal.pone.0138024,"[3] Analyses were performed using Stata 13.1 survey statistical methods that incorporated NHIS supplied probability weights, strata and primary sampling unit data."
+10.1371_journal.pone.0046047,"We therefore used Multiple Imputation with 5 imputations applying a set seed using the ice package in Stata version 11.2, to ensure that our analysis would provide unbiased estimates."
+10.1371_journal.pone.0208849,"Data were edited, coded and entered using EPI Info version 3.02 and then transferred to Stata version 14.2 for statistical analysis."
+10.1371_journal.pone.0190117,"Apart from Microsoft Excel [20] used to manage qualitative data, the statistical software Stata version 12 [21] was used to generate Table 1."
+10.1371_journal.pone.0173293,Statistical analysis was carried out by SPSS 13.0 software and P<0.05 (two-tailed) was viewed as statistically significant.
+10.1371_journal.pone.0016606,"Repeatability was determined using the intraclass correlation coefficient (τ), obtained from an analysis of variance (ANOVA, implemented in SAS version 9.1 (SAS Institute Inc., Cary, NC, USA)) and the equation for repeatability [32]."
+10.1371_journal.pone.0088265,Statistical analyses were performed in SPSS 19.0 and R 3.0.1 [42].
+10.1371_journal.pone.0197377,Analyses were performed with the statistical software SPSS v.21 and in all cases was established as statistically significant a p-value < 0.05.
+10.1371_journal.pone.0056041,"Additional tests were conducted using SPSS 19.0, and all tests were two-tailed."
+10.1371_journal.pone.0193273,The newey-west regression and robust regression in the Stata were used to correct the autocorrelation and heteroskedasticity.
+10.1371_journal.pone.0094936,"To estimate variances from our stratified and clustered survey data, we employed Taylor Series Linearization (TSL) implemented in the Complex Sample module in SPSS V20.0."
+10.1371_journal.pcbi.1000966,"We then compute the sample skewness and the sample kurtosis of the collection of all these differences, and use Matlab's Jarque-Berra test to check normality."
+10.1371_journal.pone.0141953,"To estimate the prevalence of SRH and SRD by gender, we used STATA S.E."
+10.1371_journal.pone.0095789,The MCMC simulation was conducted using the package rjags under R 3.0.3 and JAGS v 3.3.0 (further technical details are provided in the Supporting Information).
+10.1371_journal.pbio.2005747,All previously published Vg sequences plus Vg sequences obtained by BLAST searches were used to construct an alignment using the web-based Clustal Omega tool (https://www.ebi.ac.uk/Tools/msa/clustalo/).
+10.1371_journal.pone.0147518,"STATA (StataCorp, College Station, TX, USA), version IC 13.1, was used in all the statistical analyses."
+10.1371_journal.pone.0094936,"To estimate variances from our stratified and clustered survey data, we employed Taylor Series Linearization (TSL) implemented in the Complex Sample module in SPSS V20.0."
+10.1371_journal.pone.0148194,Data linkage was completed using Matlab.
+10.1371_journal.pone.0010457,Graphs and statistical analysis were conducted by SPSS 17.0 and Excel 2007.
+10.1371_journal.pone.0175352,We used IBM SPSS 22.0 for the quantitative analysis.
+10.1371_journal.pone.0080980,"Data was analyzed using SPSS 19.0 (SPSS, Inc., Chicago, IL, USA)."
+10.1371_journal.pone.0065504,"The data were entered into Epi Info version 6 and transferred into SPSS version 17 (SPSS Inc, Chicago, IL, USA)."
+10.1371_journal.pone.0014069,"All analyses were performed using Statview Software (SAS, Cary, NC), with significance set at p≤0.05."
+10.1371_journal.pone.0200332,Correlation coefficients were calculated with SPSS software version 21 [61] utilising the bivariate Pearson two-tailed analysis.
+10.1371_journal.pone.0167542,Search results from each of the three priority databases were exported into Excel and titles and abstracts were reviewed by the primary author (MH) to identify articles that merited full text review.
+10.1371_journal.pone.0020989,"To create the actual movie files, in house made scripts were used, created with Matlab software (MathWorks, Massachusetts, U.S.A.)."
+10.1371_journal.pone.0194703,The software SPSS Version 24 was used for the analyses.
+10.1371_journal.pone.0125233,Stata Version 13.0 was used for the age-sex standardised prevalence for obesity and diabetes and was calculated using the Australia 2011 Census.
+10.1371_journal.pone.0032564,"The influence of branch length and earthworm choices on earthworm times to choose was studied with a general linear model test with 2 factors (Minitab® v15.0, α = 5%)."
+10.1371_journal.pone.0035420,"All statistical modeling and analyses were conducted using PASW Statistics 18, Release Version 18.0.0 (SPSS, Inc., 2009, Chicago, IL, www.spss.com)."
+10.1371_journal.pone.0023976,"Stata 11.1 was used for statistical analysis to calculate means, proportions and regressions."
+10.1371_journal.pone.0207695,"The experimental routine was programmed using the Psychtoolbox-3 [56] for Matlab 2014a (Mathworks, Natick, MA)."
+10.1371_journal.pone.0202107,"All analyses were performed using STATA version 14.1 (Stata Corporation, College Station, TX, USA) with survey (SVY) commands for the adjustment of the cluster sampling survey design."
+10.1371_journal.pone.0210294,"The analysis was performed using SPSS 17 (PASW) for Windows (SPSS Inc., Chicago, Illinois, USA)."
+10.1371_journal.pone.0014150,"Data analysis used in-house custom MATLAB scripts and involved both whole-brain voxel-wise and region of interest (ROI) analyses [18], to compare brain activity associated with the conditions of interest (e.g., trials with anxiety-inducing angry distracters vs. trials with neutral distracters)."
+10.1371_journal.pone.0175260,All analyses were performed using the ESRI™ suite of ArcGIS 10.3 software and Stata/SE Software version 12.1 for Windows™.
+10.1371_journal.pone.0206522,"Indirect effects within samples (mediation) were analyzed using Hayes’s ([53]; version 2.16) SPSS macro PROCESS for model 4, and indirect effect across samples (moderated mediation) were analyzed using Hayes’s SPSS macro PROCESS for model 8."
+10.1371_journal.pone.0095894,"Statistical analyses were performed using SPSS for Windows software version 15.0 (SPSS Inc., Chicago, IL)."
+10.1371_journal.pone.0065730,"Estimates and standard errors for long run effects, lagged short run effects and the instantaneous short run combined effect of same sex marriages contemporaneous with strong same sex unions were calculated using the delta method using the nlcom command in Stata."
+10.1371_journal.pone.0137126,"Prior to model estimation, time series data were resampled to 5 Hz (40-point down-sampling using the “decimate” function of MATLAB to have appropriate time intervals of the estimation (the MATLB’s “decimate” function applies a 30th order, low-pass finite impulse response (FIR) filter to the original time series for data resampling)."
+10.1371_journal.pone.0023976,"Stata 11.1 was used for statistical analysis to calculate means, proportions and regressions."
+10.1371_journal.pone.0170170,Stata version 12.0 SE was used for all analyses.
+10.1371_journal.pone.0047203,"15.0 (SPSS Inc., Tokyo, Japan) was used for all data analysis."
+10.1371_journal.pone.0153714,"Data analyses were conducted using the SPSS 16.0 software package (SPSS Inc. Chicago, USA)."
+10.1371_journal.pone.0048671,Data was analysed using STATA 11.2 [44].
+10.1371_journal.pone.0055248,We analyzed the data using the statistical package for social sciences (SPSS 12).
+10.1371_journal.pone.0205973,"Then, the hypotheses were tested with OLS Ordinary Least Square through the PROCESS macro for SPSS, which assesses the conditional indirect effects [38]."
+10.1371_journal.pone.0188666,"Researchers conducted analyses using Stata statistical software, version 14."
+10.1371_journal.pone.0197454,"IBM SPSS Statistics, version 22.0 for Windows [64] was used for the statistical analyses."
+10.1371_journal.pone.0122318,"The statistical analysis was performed using the Statistical Package for Social Sciences (SPSS for Windows, version 19.0; IBM Corp, Armonk, New York, USA)."
+10.1371_journal.pone.0150331,"Statistical analyses were conducted by using SAS software, version 9.3 [PROC GENMOD, with options REPEATED, CORR = IND, and DIST = NORMAL; SAS Institute, Inc., Cary, NC]."
+10.1371_journal.pone.0072359,"SPSS 18.0 (Chicago, IL, USA) was used for all analyses."
+10.1371_journal.pone.0138293,"Statistical analyses were conducted using GraphPad InStat version 3.10 (GraphPad Software, Inc., La Jolla, CA, USA)."
+10.1371_journal.pone.0190049,"The Excel tool included the finalized list of stakeholder validated criteria, desired effect direction of criteria and measurement scales listed by category with replicated sections for each of the three intervention domains (research, surveillance, prevention and control)."
+10.1371_journal.pbio.1001940,"The residual GM effect size (after age, weight, sex, and number of scans included was controlled) was calculated and correlated with social group size with nonparametric bivariate analyses in SPSS."
+10.1371_journal.pone.0194740,We analyzed our data using SPSS (version 24.0).
+10.1371_journal.pone.0090577,Data were analyzed with SAS 9.2.
+10.1371_journal.pmed.1002459,"In our study, it was calculated by fitting model 2 to the first set of imputed data and then using the punafcc package in STATA 14."
+10.1371_journal.pone.0194203,"All regression analyses were conducted using Proc Glimmix in SAS 9.3 (SAS Institute, Cary, NC, USA)."
+10.1371_journal.pone.0207113,"The 15 s audio recordings for each of the twenty trials of the parents and the children were imported into MaxQDA (Version 12), for the coding of the audio track."
+10.1371_journal.pone.0101877,"Statistical analysis was performed using SPSS version 19.0 (SPSS Inc., Illinois, USA) and the significance level was set at P<0.05."
+10.1371_journal.pone.0209154,SPSS 20.0 was used to conduct data analysis.
+10.1371_journal.pone.0004659,"Our survey results were analyzed using descriptive statistics, Pearson's chi2, Wilcoxon sign rank, and Kruskal-Wallis mean rank tests in STATA."
+10.1371_journal.pone.0137304,"All statistical analyses were conducted using IBM SPSS, Version 22."
+10.1371_journal.pone.0201974,Structural Equation Modeling (SEM) was conducted using Stata 15.0 to assess the interrelationship between variables associated with lifetime physical IPV.
+10.1371_journal.pone.0190746,The data were analyzed using SPSS (v. 16.0).
+10.1371_journal.pone.0075009,"We performed all analysis using SAS statistical software, version 9.2 (SAS Institute Inc, Cary, NC)."
+10.1371_journal.pone.0130994,"The models were estimated using MLwiN 2.25 software from within Stata 13 software, using the user-written subroutine 'runmlwin', and Markov Chain Monte Carlo (MCMC) methods [49]."
+10.1371_journal.pone.0156868,Analyses were conducted using STATA 13/SE;[28] sample weights were used to account for the MCS complex survey design and cohort attrition over time.
+10.1371_journal.pone.0027014,"The statistical calculations were performed using GraphPad Prism version 5.03 for Windows (GraphPad Software, San Diego, USA)."
+10.1371_journal.pone.0189574,Further data editing used SQL and SPSS software.
+10.1371_journal.pone.0186992,"The statistical analysis was done with Stata 14.1 (Stata Corp LP, College station, Texas)."
+10.1371_journal.pone.0160706,"The survey forms were scanned using an optical character recognizing (OCR) machine and data were analyzed using STATA 10.1 for Windows (Stata Corp, College Station, TX, USA) software."
+10.1371_journal.pone.0060637,Data analyses were performed using SPSS software version 19.0.
+10.1371_journal.pone.0205197,"Moreover, to assess the statistical significance of the frequency of interactions won, we performed a binomial test using the GraphPad software (www.graphpad.com)."
+10.1371_journal.pone.0058847,Statistical analysis was performed using Excel (Microsoft) and OriginPro ver 7.5 (OriginLab).
+10.1371_journal.pone.0145553,Data was analyzed using IBM SPSS Statistics 18.0.
+10.1371_journal.pone.0190578,"Statistical analyzes were performed using the STATA version 13 application (StataCorp, College Station, Texas, USA) and the thematic maps were constructed using the QGIS software version 2.12.3 (OSGeo, Beaverton, OR, USA)."
+10.1371_journal.pone.0199862,"For both approaches we used the GLIMMIX procedure in SAS University Edition Software (SAS Institute, Cary, NC)."
+10.1371_journal.pone.0015118,All analyses were carried out in R (version 2.8.0) and Matlab (version 2009b).
+10.1371_journal.pone.0081237,For the permutation test we used Matlab v. 7.10.0.499.
+10.1371_journal.pone.0126010,All analyses were performed using Stata/SE 11.2 software for Mac(R).
+10.1371_journal.pone.0104136,The API calls can be run on a specific tab in the Excel to analyze tweets.
+10.1371_journal.pone.0185733,"All statistical tests were performed with SPSS (version 21, SPSS Inc., Chicago, IL, U.S.A.)."
+10.1371_journal.pone.0127881,Results were analyzed in Stata (version 13.1).
+10.1371_journal.pone.0149911,Data were analyzed using IBM SPSS Statistics version: 20.
+10.1371_journal.pone.0147595,"The effect of drug treatment, cage type, and their interaction on total behavioural frequency, as well as frequency and duration of rear-only, rear-move, sit, walk and groom self were analysed using a mixed model in SAS (v.9.3) following [52]."
+10.1371_journal.pone.0200604,The analyses were conducted in IBM SPSS Statistics 21 Advanced Model.
+10.1371_journal.pone.0156680,"Once the tasks were complete, the participant was asked to orally answer a questionnaire designed to measure the degree of technology acceptance while the experimenter recorded the data on a notebook computer Excel sheet."
+10.1371_journal.pone.0040529,Data from the surveys were double-entered and analyzed using SPSS ver.
+10.1371_journal.pone.0158802,"Reported morbidity and comorbidity of needs (speech-language alone; SEB alone; comorbid speech-language and SEB) was entered as a nominal outcome in a multinomial logistic regression model, using the mlogit command in Stata, so as to examine the relative risk associated with specific family and community characteristics, compared to children without speech-language or SEB needs."
+10.1371_journal.pone.0089513,All analyses were performed using SAS version 9.2 (SAS Institute Inc. USA).
+10.1371_journal.pone.0046449,All analyses were conducted using SPSS Version 15.0 for Windows.
+10.1371_journal.pone.0194731,The data were manually entered into a database and analysed using the Statistical Package for the Social Sciences software (IBM SPSS Statistics 18).
+10.1371_journal.pone.0057203,"Data were double-entered into a predesigned EpiData 3.1 database with validation checks, and exported to Stata 10.0 for analysis."
+10.1371_journal.pmed.1002214,"All analyses were conducted using statistical software STATA 14 (StataCorp, 2009)."
+10.1371_journal.pone.0146691,"All the processing, analyses, and machine learning were conducted using the MATLAB software package (version R2009a and R2015a, Mathworks Inc., Natick, MA, USA)."
+10.1371_journal.pone.0056941,All analysis was conducted using Stata.
+10.1371_journal.pone.0171320,"The data were analyzed with SPSS software (IBM SPSS Statistics for Windows version 22.0, Armonk, NY: IBM Corp., under license to the Central Computer System of the University of Malaga, Spain)."
+10.1371_journal.pone.0171226,"Statistical analysis was undertaken using the Statistical Package for Social Sciences (SPSS) for Windows, version 21."
+10.1371_journal.pone.0126284,PROC MIXED procedure in SAS 9.2 was used to analyze all of the above data.
+10.1371_journal.pone.0045715,Significance values for the fit to the cosine model were calculated in MATLAB.
+10.1371_journal.pone.0016606,"Repeatability was determined using the intraclass correlation coefficient (τ), obtained from an analysis of variance (ANOVA, implemented in SAS version 9.1 (SAS Institute Inc., Cary, NC, USA)) and the equation for repeatability [32]."
+10.1371_journal.pone.0032311,Models were run using the MATLAB routine REGRESSIONv2.m described in [54].
+10.1371_journal.pone.0042083,"Statistical analyses were performed using STATA version 11 (StataCorp, College Station, TX)."
+10.1371_journal.pone.0198423,"With the aim of further refining the variable assessment of the phenomenon and attending to its specificity, an extra field ‘general comments’ was added to the Excel matrix, which allowed us to qualitatively address specific aspects that had driven the usage of a specific code and that later would help us to refine the definition by category and code."
+10.1371_journal.pone.0187954,Descriptive and inferential analyses were completed using SPSS 22.
+10.1371_journal.pone.0062701,Data from the tracking software was converted into Microsoft Excel format to allow further data analysis.
+10.1371_journal.pone.0039384,"Using Psychophysics toolbox for MATLAB, the stimuli were presented using an LCD projector (AVOTEC) that projected images onto a screen located behind the subject’s head."
+10.1371_journal.pone.0195973,"The hypothesized relationships were assessed using the PROCESS macro for SPSS [62] with Model 5, which estimates the indirect effect of X (Job characteristics) on Y (Psychological Work Ability/Job mobility Intentions) through the mediator M (Motivational Orientations), with a moderating role played by W (Age) in the X → Y (Job characteristics → Psychological Work Ability/Job mobility Intentions) relationship."
+10.1371_journal.pone.0119132,Statistical analyses were performed using JAGS Gibbs-sampling environment [43] and R 3.0.3 [44].
+10.1371_journal.pone.0104333,"We used the Statistical Package for Social Sciences (SPSS for Windows, version 16.0, SPSS Inc., Chicago, IL) in the statistical analyses process."
+10.1371_journal.pone.0174605,All HRQOL responses were transferred to an excel-based database and all measures were scored according to each measure´s instructions.
+10.1371_journal.pone.0191728,Calculations were performed using STATA 14.
+10.1371_journal.pone.0181032,The data were analyzed using statistical software STATA version 13 and statistical package for social science (SPSS) version 22.
+10.1371_journal.pntd.0005939,"The data were entered into an Excel database (Excel Version 2013, Microsoft, Redmont, Washington, USA) and checked for errors which might have occurred during data entry."
+10.1371_journal.pone.0190033,This 20% was selected with the statistical software SPSS.
+10.1371_journal.pone.0139337,We estimated the sample size to be at least 165 based on the calculation of five cases per item in the SAS (which has a total of 33 items) [29].
+10.1371_journal.pone.0181961,The Gannet GABA analysis toolkit for Matlab was used to analyse GABA data [41].
+10.1371_journal.pgen.1007338,We set an E-value threshold of ≤1e-4 and bit score threshold of ≥ 40 for BLAST hits.
+10.1371_journal.pone.0113853,"As we administered two additional measures of schizotypy (SAS and PAS) that were not included in these past factor analytic studies, we added these to the existing four-factor model using theoretical assumptions by placing the SAS score on the Negative factor, and PAS on the Cognitive-Perceptual factor."
+10.1371_journal.pone.0085005,"The SAS version 9.1.3 program package was used for all analyses (SAS Institute, Inc., Cary, NC, USA)."
+10.1371_journal.pone.0180764,"As preference for future living arrangement was a non-ordered categorical variable, a multinomial regression model was performed using SPSS Version 20.0 (IBM SPSS, Armonk, NY, USA) to estimate the associations between various attributes and preferences for future living arrangements."
+10.1371_journal.pone.0003397,Analyses were performed with JMP (SAS Institute Inc.).
+10.1371_journal.pone.0157630,"All analyses were conducted using SAS version 9.1.3 (SAS Institute, Cary, North Carolina, U.S.A.)."
+10.1371_journal.pone.0174100,Off-line EEG processing and analyses were performed by adopting custom MATLAB (MathWorks) scripts using functions from the EEGLAB environment [38].
+10.1371_journal.pone.0037612,"Statistical analyses were performed with SigmaPlot 11.0 (Systat, Inc., San Jose, CA.)"
+10.1371_journal.pone.0093408,Clean sequences were subjected to NCBI BLAST to confirm that the isolates were E. coli (>95% of isolates were assigned to E. coli; others were excluded from further analyses).
+10.1371_journal.pone.0106325,Charts were created using MS Excel to compare data across and within cases.
+10.1371_journal.pone.0057725,All statistical analyses aside from the CFA were performed using STATA version 11 [28].
+10.1371_journal.pone.0184622,Tracking was performed using Ctrax [67] including the provided Matlab toolboxes for subsequent correction and analysis of tracking data.
+10.1371_journal.pone.0038524,"We analyzed data using JMP® v.8.0 (SAS Institute Inc., Cary, NC), comparing males and females for all variables using a t-test and considered results significant if α≤0.05 [47]."
+10.1371_journal.pone.0032677,"All statistics were calculated using the software, SPSS."
+10.1371_journal.pone.0090130,"Analyses were conducted using STATA Version 13 for Windows (College Station, TX, USA)."
+10.1371_journal.pone.0140085,Data were inputted into a Microsoft Excel file after being anonymised.
+10.1371_journal.pone.0191464,"Statistical analysis was performed using the IBM SPSS Statistics 20 (IBM Inc., Chicago, IL)."
+10.1371_journal.pone.0033461,"All analyses were carried out in MATLAB (The MathWorks, Natick, MA)."
+10.1371_journal.pone.0161842,Frequency distributions were calculated using the statistical package Stata 13.0.
+10.1371_journal.pone.0021066,"SPSS version 16 for Mac OS 10.5 was used to run the linear mixed effect models, significance levels were set at 0.05, and two-tailed probability values are quoted."
+10.1371_journal.pone.0112905,Normalized cell proportions for each auditory forebrain region were analyzed with two-way ANOVA (SAS software).
+10.1371_journal.pone.0200165,The subsequent analyses were conducted using SAS software [17].
+10.1371_journal.pone.0090938,SPSS for windows version 20.0 was used.
+10.1371_journal.pone.0118305,All the statistical analyses were implemented with the statistical software SAS 9.2 [21].
+10.1371_journal.pone.0169482,Analyses were conducted using Stata Version 12.
+10.1371_journal.pone.0200535,"Finally, mediation models of the mismatch effect were tested with path analysis using PROCESS v2.13, a macro created by [51] for SPSS."
+10.1371_journal.pone.0159250,"In order to refine our understanding of the associations between respondents’ awareness and attitudes and respondents’ personal and household characteristics, we conduct multivariate regression analyses (Stata 13.1)."
+10.1371_journal.ppat.1003083,"Using reciprocal best-BLAST hit (RBH) criteria, 6325 (62%) of honeybee genes had an assignable fly ortholog."
+10.1371_journal.pone.0064522,"Analyses were conducted with SAS software Version 9.2 [30], and SUDAAN software Release 10.0 [31], and incorporated weighting to account for sampling design."
+10.1371_journal.pone.0081115,We used multiple imputation (Proc MI in SAS) to assign values for variables with missing data.
+10.1371_journal.pone.0196327,"All analyses were conducted using IBM SPSS Statistics, Version 22 with weighted data."
+10.1371_journal.pone.0004983,"Comb area and T levels were measured prior to and after treatments, so we tested for treatment effects on changes over time using Generalized Linear Mixed Models (Mixed procedure in SAS)."
+10.1371_journal.pone.0195430,The statistical analysis was conducted using SPSS Version 22.
+10.1371_journal.pone.0144947,All analyses were performed with SPSS® for Windows version 21.
+10.1371_journal.pone.0171782,Mediation analyses were computed using the MEDIATE SPSS custom dialog [21].
+10.1371_journal.pone.0183782,"SPSS 23 (IBM, Armonk, New York) was used for all analyses."
+10.1371_journal.pone.0024858,"The data were analyzed using SPSS software (Statistical Package for the Social Sciences, version 17.0)."
+10.1371_journal.pone.0100231,All analyses were performed with the STATA software version 10.
+10.1371_journal.pone.0005987,"For the pre-processing and statistical analyses, the statistical parametric mapping software package (SPM5, Wellcome Department of Cognitive Neurology, London; www.fil.ion.ucl.ac.uk/spm) was used and implemented in Matlab (Mathworks, Inc., Natick, MA, USA release 14)."
+10.1371_journal.pone.0084492,"MRI data was analyzed using SPSS Statistics (IBM, version 19) using a generalized linear model fitted to a gamma distribution, with MAM treatment, enrichment, and gender as factors."
+10.1371_journal.pone.0182399,"The research study details were recorded in MS Excel in the apriori descriptive mapping categories of geographic focus, aims of the study, peer review status, type of report, key findings, methods and sample size."
+10.1371_journal.pone.0206032,All analyses were done in Stata 14.
+10.1371_journal.pone.0146382,All statistical analyses were performed using IBM SPSS Statistics v.22.
+10.1371_journal.pone.0149195,"All analyses were performed in Stata version 14 (Texas, USA)."
+10.1371_journal.pone.0201215,We carried out all our analyses using Stata 12 [50].
+10.1371_journal.pone.0175651,"Using the SPSS 18.0 software package (IBM, Armonk, NY, USA), we employed one repeated-measures Analysis of Variance Analysis test (ANOVA) to check the effect of provocation."
+10.1371_journal.pone.0198423,"With the aim of further refining the variable assessment of the phenomenon and attending to its specificity, an extra field ‘general comments’ was added to the Excel matrix, which allowed us to qualitatively address specific aspects that had driven the usage of a specific code and that later would help us to refine the definition by category and code."
+10.1371_journal.pone.0111169,"We used the computer software, STATA 12.1 for all analyses."
+10.1371_journal.pone.0144456,Statistical analyses were conducted using Stata 13.1 statistical software.
+10.1371_journal.pone.0190254,Responses were then analyzed using SPSS version 23 to determine descriptive frequencies.
+10.1371_journal.pone.0207680,Analyses were conducted using SPSS v21.0.
+10.1371_journal.pone.0198423,"Upon completion of the codification, a matrix containing all of the data was generated so it could be used in a statistical package (SPSS 24)."
+10.1371_journal.pone.0071796,All data analysis was performed using IBM SPSS Statistics 18.0.
+10.1371_journal.pone.0195267,"DLMs were implemented using the dlnm package version 2.2.6 in R Studio (Vienna, Austria) and other analyses were performed in SAS (v9.4, SAS Institute Inc., Cary, NC)."
+10.1371_journal.pone.0121144,"All analyses were conducted using SPSS 20.0, results were considered significant at the P<0.05 level."
+10.1371_journal.pone.0003628,"Facial stimuli were presented to the subjects in 4 different blocks using MATLAB 7.0® (Mathworks Inc., Sherborn, USA)."
+10.1371_journal.pone.0185766,Calculations were performed with SPSS software (Version 22.2).
+10.1371_journal.pbio.2002468,"The model was implemented in Matlab 2015b (The Mathworks, Natick, MA) and is available in S1 Code and at famulare.github.io/cessationStability."
+10.1371_journal.pone.0181196,"All statistical analyses were performed with SAS software version 9.3 (SAS Institute Inc, Cary, NC)."
+10.1371_journal.pone.0185798,"Linear regression analysis was carried out using STATA 14 to examine associations between wellbeing and i) father’s social class, ii) adult social class, iii) father’s and adult social class included together."
+10.1371_journal.pone.0118484,"Data analysis was performed using the Statistical Package for the Social Sciences (SPSS for Windows, version 19.0, SPSS Inc, Chicago, IL, USA) and included frequency distribution and association tests."
+10.1371_journal.pone.0046579,"These integrated peak areas were calculated in Excel using the same spreadsheet of binned, edited, and normalized spectra described above."
+10.1371_journal.pone.0072602,"Multilevel regression analyses were performed in SAS software version 9.2 (SAS Institute Inc., 2009)."
+10.1371_journal.pone.0195268,"Analyses were conducted using SPSS version 24.0 and R. Mean, SD, skewness and kurtosis were calculated."
+10.1371_journal.pone.0193262,"Quantitative data were analyzed using the Statistical Analysis System (SAS) (version 9.4, SAS Institute Inc.)."
+10.1371_journal.pone.0087527,All analyses were conducted using Stata version 11.
+10.1371_journal.pone.0014331,"The SAS syntax suggested by van Houwelingen, Arends, and Stijnen [77] was used."
+10.1371_journal.pone.0167830,"The presented results are pooled results using Rubin’s combination rules [45], and were obtained using Stata’s “mi estimate” command."
+10.1371_journal.pone.0127881,Results were analyzed in Stata (version 13.1).
+10.1371_journal.pone.0016003,"All analyses were done using SPSS Software for Windows (v. 15 IBM, Chicago, IL, USA,) and graphs were drawn using Sigma plot for Windows (v. 8.02."
+10.1371_journal.pone.0190578,"Statistical analyzes were performed using the STATA version 13 application (StataCorp, College Station, Texas, USA) and the thematic maps were constructed using the QGIS software version 2.12.3 (OSGeo, Beaverton, OR, USA)."
+10.1371_journal.pone.0038462,"The statistical analysis was performed using the Statistical Package for Social Sciences (SPSS for windows, version 19.0; Chicago, Illinois, USA)."
+10.1371_journal.pone.0197552,"Analyses were conducted using SPSS version 22.0 statistical software packages (SPSS, Chicago IL, USA)."
+10.1371_journal.pone.0204410,Data were entered into excel (Microsoft 2010) database and analysed using excel functions.
+10.1371_journal.pone.0157119,All analyses were performed in SPSS 19.
+10.1371_journal.pone.0069472,"The user-written ice commands [35]–[41] in Stata v11.2 (Stata Corp, TX, USA) were used to complete five imputations with ten cycles in each imputation."
+10.1371_journal.pone.0206752,Data were analysed using SPSS version 22 [48].
+10.1371_journal.pone.0179089,"Statistical analysis was performed using SAS 9.3 (SAS Institute, Cary NC)."
+10.1371_journal.pone.0126400,Analyses were performed using the SPSS Windows Version 20 [33].
+10.1371_journal.pone.0009791,We tested for effects of the number of voles in each cage upon body weight using General Linear Models (GLM; Minitab ver.
+10.1371_journal.pone.0050108,"We used SPSS 20.0 for Windows (SPSS Inc., Chicago, IL) for all analyses."
+10.1371_journal.pone.0058142,"All analyses were conducted in STATA, release 10.1 (Statacorp., College Station, TX, USA)."
+10.1371_journal.pone.0001290,"Automated model building procedures (forward, backward or stepwise regression) are not supported by the survey analysis command in Stata 8.0 and are therefore not used in any of the analyses."
+10.1371_journal.pone.0193616,"The dependent eye movement measures of total dwell time, relative dwell time, entry time, number of fixations, first fixation duration and average fixation duration were each subjected to a generalized linear mixed model analysis (GLMM; GENLINMIXED in SPSS) to account for repeated measures of the same subject."
+10.1371_journal.pone.0206640,SPSS software (version 18.0) and R software (version 3.4.3) were used for statistical analysis.
+10.1371_journal.pone.0167224,"The questions and resulting answers of the participants’ online interviews were merged into an rtf-formatted document and imported into a computer program (MaxQDA) for qualitative analyses [47,48]."
+10.1371_journal.pone.0178359,All data analyses were conducted using SAS 9.3.
+10.1371_journal.pone.0165343,"The images were subsequently processed and analyzed on a pixel-by-pixel basis using the Matlab Image Processing Toolbox (Mathworks, Matlab v2011b) using script modified from Theyel and colleagues [20]."
+10.1371_journal.pone.0131734,SPSS 16.0 for Windows was used for data analysis; p values of <0.05 were taken as statistically significant.
+10.1371_journal.pone.0156901,We used the Brain Connectivity Toolbox [17] and MATLAB custom-made scripts to explore global and local topological properties of the ToM-network in each participant’s brain.
+10.1371_journal.pone.0030096,All analyses were carried out using Stata version 11.
+10.1371_journal.pone.0092862,Statistical analyses were performed using PASW Statistics version 18 for Windows (SPSS Inc.).
+10.1371_journal.pone.0064881,"Multilevel mixed effects logistic regression (xtmelogit) on the 3 sexual risk behaviour indicators were analysed using STATA 11.1 (StataCorp, 2009)."
+10.1371_journal.pone.0006368,Data analysis was conducted using SigmaStat 3.5 and SPSS for Windows 11.5.
+10.1371_journal.pone.0032564,"For group-joining assays in the circular arena, a chi-square test for independence (Minitab® v15.0, N = 46, df = 2, α = 5%) was used to compare the number of earthworms reaching the central region when different numbers of earthworms were presented there."
+10.1371_journal.pone.0078816,"The data were analyzed in STATA (version 11.2), using Cox proportional hazards regression model to estimate the hazard ratio (HR) with a 95% confidence interval (CI), to assess the association between bereavement during childhood and the risk of hospitalization for asthma."
+10.1371_journal.pone.0160787,All ROM questionnaires were scored in an excel document appointed to an individual patient.
+10.1371_journal.pone.0203117,"We exported an excel sheet with the sample coded by the two researchers being 1 (is evidence of social impact, either potential or real) and 0 (is not evidence of social impact) to SPSS."
+10.1371_journal.pone.0168748,Descriptive statistics were performed using Graphpad Prism 6.
+10.1371_journal.pone.0152452,"Analyses were performed using Stata version 13.0 (Stata Corp, College Station, Texas)."
+10.1371_journal.pone.0123608,"Data analysis was performed using the SPSS 15.0 PC package (SPSS Inc., Chicago, IL), with statistical significance set at P<0.05."
+10.1371_journal.pmed.1002040,Analysis was performed using Stata version 13 and REALCOM-IMPUTE software [38].
+10.1371_journal.pone.0172885,A multiple linear regression was conducted to isolate independent predictors of nutritional outcomes of child using SPSS version 21 windows software.
+10.1371_journal.pone.0191253,"We conducted all statistical analyses in Stata version 13.1 (StataCorp, Texas, USA)."
+10.1371_journal.pone.0185135,"All data were analysed using the IBM SPSS Statistics 22 (IBM, NY, USA) software package."
+10.1371_journal.pone.0157119,All analyses were performed in SPSS 19.
+10.1371_journal.pone.0056936,1) Composition of the subscales of SAS and internal consistency:
+10.1371_journal.pone.0090130,"This assumption, tested by Stata's gologit2 command and its autofit option, was confirmed in all cases."
+10.1371_journal.pone.0032566,We carried out the statistical tests in SPSS 10.0; α = 0.05.
+10.1371_journal.pone.0014610,I then transcribed these voice recordings into an Excel database for subsequent analysis (see below).
+10.1371_journal.pone.0155442,Swings scores and data from the rule formation task were imported into SPSS for analyses.
+10.1371_journal.pone.0202169,How often did you understand what your family members said when they were talking to each other (not directly to you) such as at the dinner table or in the living room?”Analyses were performed in SPSS v23.0.
+10.1371_journal.pone.0036118,"Statistical analyses were performed using SPSS v15.0 (SPSS, Inc., Chicago, Illinois, USA) and Intercooled Stata 10 (StataCorp LP, College Station, Texas, USA) software packages."
+10.1371_journal.pone.0152245,Average time spent on each odor source during a trial and number of visits to rosemary and eucalyptus before and after training was compared using paired Student’s T-tests in SPSS.
+10.1371_journal.pone.0017317,"Statistical analysis was conducted using StatView (SAS Institute, Cary, NC)."
+10.1371_journal.pone.0157080,"All statistical analyses were conducted using the statistical software package Stata 13 (STATA Corp, College Station, TX), and the p-value <0.05 was considered as statistically significant when performing hypothesis tests."
+10.1371_journal.pone.0086430,"Total intracranial volume was obtained by summing up the overall volumes of grey matter, white matter, and CSF, which were calculated by means of the MATLAB script “get_totals” provided by Ridgway [77]."
+10.1371_journal.pone.0006150,Primers were checked for specificity using NCBI BLAST searches.
+10.1371_journal.pone.0113853,"The 40-item Revised Social Anhedonia Scale (SAS) [21], [26] is a true/false measure assessing deficits in the ability to experience pleasure from interpersonal interactions."
+10.1371_journal.pone.0204055,"All the analyses were performed using STATA 13.1 (StataCorp., TX, USA)."
+10.1371_journal.pone.0079181,Data analyses were performed using SPSS 16.0.
+10.1371_journal.pone.0190231,The collected data were analyzed in IBM SPSS for Windows–version 19.
+10.1371_journal.pone.0014610,I then transcribed these voice recordings into an Excel database for subsequent analysis (see below).
+10.1371_journal.pone.0144451,The identity of the amplicons was confirmed by comparing each sequence using BLAST (Basic Local Alignment Search Tool).
+10.1371_journal.pone.0153276,The statistical analyses were carried out using IBM SPSS 22 for Windows (IBM Corp.
+10.1371_journal.pone.0159560,Data was analyzed by SPSS 16.
+10.1371_journal.pone.0101877,"Statistical analysis was performed using SPSS version 19.0 (SPSS Inc., Illinois, USA) and the significance level was set at P<0.05."
+10.1371_journal.pone.0029991,"Descriptive statistics were computed using the “svy” command in STATA, in order to take into account the survey characteristics."
+10.1371_journal.pone.0125431,"The process is summarized as: (1) the data are standardized such that each variable has mean 0 and norm 1; (2) a grid search of two tuning parameters associated with each penalty function is applied to the model (one for the fixed effects and one for the random effects), which control the strength of the shrinkage; (3) the model that gives a minimum Bayesian Information Criteria [47] is chosen as the optimal model that gives the best balance of fit and parsimony; and (4) the model is refit with only the selected fixed and random effects, with no constraints applied to the coefficients, using PROC GLIMMIX in SAS (SAS Institute, Carey, NC)."
+10.1371_journal.pone.0188731,All the analyses were implemented using SAS 9.4.
+10.1371_journal.pone.0171557,"Statistical analyses were performed using Statistical Package for the Social Sciences (SPSS) Version 19.0 software (IBM Corp, Armonk, NY)."
+10.1371_journal.pone.0139447,Data were cleaned in Access and then analyzed using SAS 9.3 (SAS Institute Inc.).
+10.1371_journal.pone.0059084,"Differential equations (1), (3), (4) and (7), using functions (2) and (5), were solved using MATLAB to get typical plots of brood, hive bees, foragers and food against time."
+10.1371_journal.pone.0064038,Data were analysed using SPSS 15.0 for Windows.
+10.1371_journal.pone.0071313,All analyses were performed using SAS 9.2.
+10.1371_journal.pone.0142104,The Cox proportional hazard assumption was formally tested through the Schoenfeld residual test in Stata and is not violated.
+10.1371_journal.pone.0148211,We used STATA version 11 for the statistical analyses.
+10.1371_journal.pone.0188802,"All analyses were performed using SPSS for Windows version 23 software (IBM Japan Ltd, Tokyo, Japan)."
+10.1371_journal.pone.0163010,"All statistical analysis was conducted using SPSS v.18.0 (IBM Corp., Armonk, NY, USA)."
+10.1371_journal.pone.0202518,Correlation analyses were based on scores corrected for linear age effects and sex differences and computed with SPSS 23.
+10.1371_journal.pone.0145606,The analyses were conducted using the SPSS statistical software program (PASW 18.0).
+10.1371_journal.pone.0074197,"However, there is currently not a way of obtaining an overall p-value for categorical variables in SPSS, which is necessary for selective backward logistic regression."
+10.1371_journal.pone.0190117,An excel database spreadsheet was developed to code the response of different categories (preference for home delivery or institutional delivery) attached to the participant’s unique identification number.
+10.1371_journal.pone.0083315,Statistical analyses were performed using SPSS version 19.0.
+10.1371_journal.pone.0174677,"Both weighting factors and clusters were included into the SPSS Complex samples plan file to estimate population proportions and 95% confidence intervals (CI) of socio-demographic characteristic, migration factors, sexual behavior and sexual health."
+10.1371_journal.pone.0056941,All analysis was conducted using Stata.
+10.1371_journal.pone.0123329,"Data were analyzed using Statistical Parametric Mapping 5 (SPM5, Wellcome Department of Cognitive Neurology, London, UK) software implemented in Matlab 7.8 (Mathworks, Sherborn, MA, USA)."
+10.1371_journal.pone.0195268,"Analyses were conducted using SPSS version 24.0 and R. Mean, SD, skewness and kurtosis were calculated."
+10.1371_journal.pone.0031660,Data extraction was managed in Microsoft Excel.
+10.1371_journal.pone.0084164,"All statistical procedures were completed using SPSS 16.0 (SPSS, Chicago, IL, USA)."
+10.1371_journal.pone.0055248,We analyzed the data using the statistical package for social sciences (SPSS 12).
+10.1371_journal.pone.0200997,"To allocate the participants into two groups (intervention/experimental and control), we used SPSS (IBM v. 23) random sampling software."
+10.1371_journal.pone.0137352,All analyses were performed using SAS v.9.2 [34].
+10.1371_journal.pone.0199765,All statistical analyses were conducted with SPSS ver.
+10.1371_journal.pone.0078162,"Data management and univariable analyses were performed in STATA version 11 (StataCorp LP, College Station, Texas, United States of America)."
+10.1371_journal.pone.0195267,"DLMs were implemented using the dlnm package version 2.2.6 in R Studio (Vienna, Austria) and other analyses were performed in SAS (v9.4, SAS Institute Inc., Cary, NC)."
+10.1371_journal.pone.0169746,"Areas under the curve were calculated using the trapezoid rule utilising Sigmaplot graphing software (SystatSoftwareInc., California, USA)."
+10.1371_journal.pone.0200165,The subsequent analyses were conducted using SAS software [17].
+10.1371_journal.pone.0169819,"Then, one village was randomly selected from each sub-county, using a random number generator (Microsoft Excel Basic 2003, Redmond, WA)."
+10.1371_journal.pone.0186651,"We used SAS 9.4 (SAS Institute, Cary, NC, USA) for data set-up and analyses."
+10.1371_journal.pone.0078795,"Data analysis in EEGLAB [31] and Mathworks Matlab involved band-pass filtering the EEG data between 0.5 Hz and 80 Hz, with a notch-filter between 45 and 55 Hz."
+10.1371_journal.pone.0210532,All statistical analyses were conducted using Statistical Package for Social Sciences (SPSS 20.0).
+10.1371_journal.pone.0146268,"Logistic regression was conducted using SAS 9.3 software (SAS PROC SURVEYLOGISTICS; SAS Institute, Cary, NC)."
+10.1371_journal.pone.0094295,All the analyses in this paper were performed with STATA 11.0 software.
+10.1371_journal.pone.0106622,"Statistical analyses were performed using Stata 11.0 (StataCorp, College Station, Texas, USA)."
+10.1371_journal.pone.0095054,Multivariable analysis was carried out using Cox's proportional hazard regression in SAS.
+10.1371_journal.pone.0084828,We used Stata version 12.0 for analyses.
+10.1371_journal.pone.0188701,"Statistical analyses were conducted using SAS software, version 9.3 [PROC GENMOD, with options REPEATED, CORR = IND or AR, and DIST = NORMAL; SAS Institute, Inc., Cary, NC]."
+10.1371_journal.pone.0088504,"For this, the statistical program SPSS (Statistical Package for Social Sciences) for Windows version 19 was used."
+10.1371_journal.pone.0129805,"All statistical analyses were conducted using SPSS Statistics 22 (Dynelytics, Zurich, Switzerland)."
+10.1371_journal.pone.0022350,"At the group level, network measures were used to statistically examine, using Poisson or Gaussian regression analysis in Stata 11, the associations among the individual and family attributes, social network structures, rates of wounding and social relocations across the seven enclosures."
+10.1371_journal.pone.0189574,For analysis we used Stata v14.
+10.1371_journal.pone.0089090,Data analysis was conducted with the SPSS-15 statistical software package.
+10.1371_journal.pone.0015429,"Manual annotations of social/sexual interactions and wheel running activity were done manually using the Caltech Behavior Annotator program, a software tool created in MATLAB designed to facilitate the rapid manual annotation of video sequences."
+10.1371_journal.pone.0172820,The above analyses were performed in Stata 13 statistical software [32].
+10.1371_journal.pone.0096460,"The Statistical Package for the Social Sciences (SPSS) Version 19.0 (SPSS, Chicago, IL) and XLSTAT (Addinsoft SARL, Germany) were used to conduct analyses."
+10.1371_journal.pone.0086127,"Overimitation behaviour, eye-contact and demonstration type were entered as a between trial factors and age, BPVS and SAS were entered as covariates."
+10.1371_journal.pone.0130584,"All data were analyzed using SPSS statistical software (version 21.0J; IBM SPSS Japan, Tokyo, Japan)."
+10.1371_journal.pone.0153431,All analyses were performed using the STATA software (version11.2).
+10.1371_journal.pone.0175912,"The eye-tracking data were processed with custom software written in MATLAB (Mathworks, Natick, MA, USA)."
+10.1371_journal.pone.0169972,"As a result, although the SAS-2 was developed for a different context, we selected this instrument in light of a number of considerations."
+10.1371_journal.pone.0143908,All statistical analysis was performed using SigmaPlot (version 11).
+10.1371_journal.pone.0179380,"Statistical analyses were performed in STATA (version 12.1, Stata Corp, College Station, TX)."
+10.1371_journal.pone.0150545,"Statistical analyses were performed using SAS 9.3 (SAS Institute INC. Cary, NC, USA), R software (http://www.r-project.org), and a web-based PABAK-OS calculator (http://www.singlecaseresearch.org/calculators/pabak-os)."
+10.1371_journal.pone.0113618,All statistical analyses were performed using SPSS 12.0.
+10.1371_journal.pone.0055680,SAS (version 8) was used in descriptive analysis of the sample demographics.
+10.1371_journal.pone.0164581,"Data was entered and analyzed using Statistical Package for Social Sciences version- 16 (SPSS IBM, New York, NY, USA)."
+10.1371_journal.pone.0113853,Structural equation modeling was conducted using IBM SPSS Amos 21.0.
+10.1371_journal.pone.0162464,A PCA analysis was conducted using XLSTAT 2015 for Excel.
+10.1371_journal.pone.0032564,"The influence of branch length and earthworm choices on earthworm times to choose was studied with a general linear model test with 2 factors (Minitab® v15.0, α = 5%)."
+10.1371_journal.pone.0159551,All such interviews were conducted by native language interviewers in each country using CATI-SPSS Dimensions software.
+10.1371_journal.pone.0149911,Data were analyzed using IBM SPSS Statistics version: 20.
+10.1371_journal.pone.0037177,"All analyses were conducted using Stata version 11 (StataCorp, College Station, Texas) and Excel version 2007 (Microsoft Corporation, Redmond, Washington)."
+10.1371_journal.pone.0071313,All analyses were performed using SAS 9.2.
+10.1371_journal.pone.0029991,"Descriptive statistics were computed using the “svy” command in STATA, in order to take into account the survey characteristics."
+10.1371_journal.pone.0064742,"Double data entry was performed by 4 operators, supervised by a statistician, using SPSS software [42]."
+10.1371_journal.pone.0195267,"DLMs were implemented using the dlnm package version 2.2.6 in R Studio (Vienna, Austria) and other analyses were performed in SAS (v9.4, SAS Institute Inc., Cary, NC)."
+10.1371_journal.pone.0042416,"All analyses were performed with statistical software STATA version 9.0 (StataCorp, College Station, TX)."
+10.1371_journal.pone.0180498,"All analyses were performed with multiple imputation methods using STATA version 14 (Stata Corp LP, College Station, TX, USA)."
+10.1371_journal.pone.0147256,"TST) were determined via mouse observation (climbing) or SPSS, and these values were removed and the N for the group was adjusted to reflect this."
+10.1371_journal.pone.0117938,Ideal pass filter is a data filtering tool offered by the time series tools of MATLAB R2010b.
+10.1371_journal.pone.0132838,"SPSS software, version 18.0 (SPSS Inc., Chicago, IL, USA) was used for all analyses."
+10.1371_journal.pone.0099558,"Hierarchical linear regression models were used as the main statistical method, using the user-written runmlwin command in Stata to fit multilevel models in the MLwiN software package v.2.27 [37]."
+10.1371_journal.pone.0102030,All data obtained was anonymized before it was received and therefore not connected to the athletes' personal information when entered in SPSS.
